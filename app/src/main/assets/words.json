@@ -1,0 +1,5177 @@
+[
+  {
+    "id": 1,
+    "palavra": "acuidade",
+    "classe": "substantivo",
+    "definicao": "perspicácia, agudeza de percepção",
+    "exemplo": "O médico notou a acuidade visual reduzida do paciente.",
+    "frances": "acuité",
+    "ingles": "acuity"
+  },
+  {
+    "id": 2,
+    "palavra": "acume",
+    "classe": "substantivo",
+    "definicao": "perspicácia, sagacidade de espírito",
+    "exemplo": "Resolveu o problema com notável acume.",
+    "frances": "perspicacité",
+    "ingles": "acumen"
+  },
+  {
+    "id": 3,
+    "palavra": "adrede",
+    "classe": "advérbio",
+    "definicao": "de propósito, intencionalmente",
+    "exemplo": "Ele chegou atrasado adrede para evitar a reunião.",
+    "frances": "exprès",
+    "ingles": "deliberately"
+  },
+  {
+    "id": 4,
+    "palavra": "aduzir",
+    "classe": "verbo",
+    "definicao": "apresentar, alegar como prova ou argumento",
+    "exemplo": "O advogado aduziu novos fatos ao processo.",
+    "frances": "alléguer",
+    "ingles": "to adduce"
+  },
+  {
+    "id": 5,
+    "palavra": "alacridade",
+    "classe": "substantivo",
+    "definicao": "vivacidade, entusiasmo, alegria ativa",
+    "exemplo": "Recebeu a notícia com alacridade.",
+    "frances": "allégresse",
+    "ingles": "alacrity"
+  },
+  {
+    "id": 6,
+    "palavra": "álacre",
+    "classe": "adjetivo",
+    "definicao": "alegre, vivo, animado",
+    "exemplo": "O grupo seguiu álacre para a excursão.",
+    "frances": "allègre",
+    "ingles": "cheerful"
+  },
+  {
+    "id": 7,
+    "palavra": "almejar",
+    "classe": "verbo",
+    "definicao": "desejar intensamente, aspirar a",
+    "exemplo": "Ela sempre almejou viajar pelo mundo.",
+    "frances": "aspirer à",
+    "ingles": "to aspire to"
+  },
+  {
+    "id": 8,
+    "palavra": "anacrônico",
+    "classe": "adjetivo",
+    "definicao": "fora de seu tempo histórico",
+    "exemplo": "O costume parecia anacrônico naquele contexto moderno.",
+    "frances": "anachronique",
+    "ingles": "anachronistic"
+  },
+  {
+    "id": 9,
+    "palavra": "anuir",
+    "classe": "verbo",
+    "definicao": "concordar, consentir",
+    "exemplo": "O diretor anuiu ao pedido dos funcionários.",
+    "frances": "acquiescer",
+    "ingles": "to acquiesce"
+  },
+  {
+    "id": 10,
+    "palavra": "apócrifo",
+    "classe": "adjetivo",
+    "definicao": "de autoria duvidosa, não autêntico",
+    "exemplo": "O texto era considerado apócrifo pelos historiadores.",
+    "frances": "apocryphe",
+    "ingles": "apocryphal"
+  },
+  {
+    "id": 11,
+    "palavra": "aprazível",
+    "classe": "adjetivo",
+    "definicao": "agradável, prazeroso",
+    "exemplo": "Passamos uma tarde aprazível no jardim.",
+    "frances": "agréable",
+    "ingles": "pleasant"
+  },
+  {
+    "id": 12,
+    "palavra": "aquiescer",
+    "classe": "verbo",
+    "definicao": "consentir, concordar tacitamente",
+    "exemplo": "O conselho aquiesceu à proposta sem debate.",
+    "frances": "acquiescer",
+    "ingles": "to acquiesce"
+  },
+  {
+    "id": 13,
+    "palavra": "arauto",
+    "classe": "substantivo",
+    "definicao": "mensageiro, anunciador",
+    "exemplo": "O jornal foi arauto das mudanças sociais.",
+    "frances": "héraut",
+    "ingles": "herald"
+  },
+  {
+    "id": 14,
+    "palavra": "arrostar",
+    "classe": "verbo",
+    "definicao": "enfrentar com coragem, encarar",
+    "exemplo": "Decidiu arrostar as dificuldades sem hesitar.",
+    "frances": "affronter",
+    "ingles": "to confront"
+  },
+  {
+    "id": 15,
+    "palavra": "assíduo",
+    "classe": "adjetivo",
+    "definicao": "frequente, constante, pontual",
+    "exemplo": "Era um aluno assíduo nas aulas.",
+    "frances": "assidu",
+    "ingles": "assiduous"
+  },
+  {
+    "id": 16,
+    "palavra": "astucioso",
+    "classe": "adjetivo",
+    "definicao": "que age com astúcia, esperto",
+    "exemplo": "O comerciante astucioso fechou um bom negócio.",
+    "frances": "astucieux",
+    "ingles": "cunning"
+  },
+  {
+    "id": 17,
+    "palavra": "átono",
+    "classe": "adjetivo",
+    "definicao": "sem acento tônico; sem ânimo",
+    "exemplo": "A sílaba átona não recebe força de pronúncia.",
+    "frances": "atone",
+    "ingles": "unstressed"
+  },
+  {
+    "id": 18,
+    "palavra": "aviltar",
+    "classe": "verbo",
+    "definicao": "degradar, humilhar",
+    "exemplo": "O escândalo aviltou a reputação da empresa.",
+    "frances": "avilir",
+    "ingles": "to debase"
+  },
+  {
+    "id": 19,
+    "palavra": "azáfama",
+    "classe": "substantivo",
+    "definicao": "agitação, correria, alvoroço",
+    "exemplo": "A azáfama da feira tomava conta da praça.",
+    "frances": "effervescence",
+    "ingles": "bustle"
+  },
+  {
+    "id": 20,
+    "palavra": "babélico",
+    "classe": "adjetivo",
+    "definicao": "confuso, caótico, de muitas línguas misturadas",
+    "exemplo": "A reunião virou uma discussão babélica.",
+    "frances": "babélique",
+    "ingles": "babel-like"
+  },
+  {
+    "id": 21,
+    "palavra": "baldar",
+    "classe": "verbo",
+    "definicao": "frustrar, inutilizar",
+    "exemplo": "A chuva baldou os planos do casamento.",
+    "frances": "contrecarrer",
+    "ingles": "to thwart"
+  },
+  {
+    "id": 22,
+    "palavra": "balbuciar",
+    "classe": "verbo",
+    "definicao": "falar de forma hesitante e confusa",
+    "exemplo": "A criança balbuciou as primeiras palavras.",
+    "frances": "balbutier",
+    "ingles": "to babble"
+  },
+  {
+    "id": 23,
+    "palavra": "baldio",
+    "classe": "adjetivo",
+    "definicao": "não cultivado, abandonado",
+    "exemplo": "O terreno baldio virou depósito de lixo.",
+    "frances": "en friche",
+    "ingles": "fallow"
+  },
+  {
+    "id": 24,
+    "palavra": "belicoso",
+    "classe": "adjetivo",
+    "definicao": "inclinado à guerra, agressivo",
+    "exemplo": "O discurso belicoso alarmou os vizinhos.",
+    "frances": "belliqueux",
+    "ingles": "bellicose"
+  },
+  {
+    "id": 25,
+    "palavra": "bissexto",
+    "classe": "adjetivo",
+    "definicao": "raro, que ocorre esporadicamente",
+    "exemplo": "Fazia visitas bissextas à cidade natal.",
+    "frances": "occasionnel",
+    "ingles": "occasional"
+  },
+  {
+    "id": 26,
+    "palavra": "bizarro",
+    "classe": "adjetivo",
+    "definicao": "estranho, excêntrico",
+    "exemplo": "O comportamento bizarro chamou a atenção de todos.",
+    "frances": "bizarre",
+    "ingles": "bizarre"
+  },
+  {
+    "id": 27,
+    "palavra": "bonança",
+    "classe": "substantivo",
+    "definicao": "calmaria, tranquilidade",
+    "exemplo": "Depois da tempestade veio a bonança.",
+    "frances": "accalmie",
+    "ingles": "calm"
+  },
+  {
+    "id": 28,
+    "palavra": "cabal",
+    "classe": "adjetivo",
+    "definicao": "completo, exato, definitivo",
+    "exemplo": "Deu uma explicação cabal do ocorrido.",
+    "frances": "complet",
+    "ingles": "thorough"
+  },
+  {
+    "id": 29,
+    "palavra": "cachimônia",
+    "classe": "substantivo",
+    "definicao": "juízo, tino, bom senso (informal)",
+    "exemplo": "Perdeu a cachimônia diante da notícia.",
+    "frances": "bon sens",
+    "ingles": "common sense"
+  },
+  {
+    "id": 30,
+    "palavra": "cacófato",
+    "classe": "substantivo",
+    "definicao": "som desagradável formado por junção de palavras",
+    "exemplo": "O texto tinha um cacófato evidente.",
+    "frances": "cacophonie",
+    "ingles": "cacophony"
+  },
+  {
+    "id": 31,
+    "palavra": "candente",
+    "classe": "adjetivo",
+    "definicao": "incandescente; muito atual e polêmico",
+    "exemplo": "O tema era candente naquele debate.",
+    "frances": "brûlant",
+    "ingles": "burning"
+  },
+  {
+    "id": 32,
+    "palavra": "cândido",
+    "classe": "adjetivo",
+    "definicao": "ingênuo, puro, sem malícia",
+    "exemplo": "Tinha um olhar cândido sobre o mundo.",
+    "frances": "candide",
+    "ingles": "candid"
+  },
+  {
+    "id": 33,
+    "palavra": "caudal",
+    "classe": "adjetivo",
+    "definicao": "volumoso, abundante (fala-se de rio)",
+    "exemplo": "O rio seguia caudal após as chuvas.",
+    "frances": "abondant",
+    "ingles": "abundant"
+  },
+  {
+    "id": 34,
+    "palavra": "cediço",
+    "classe": "adjetivo",
+    "definicao": "que já não é fresco; conhecido de todos",
+    "exemplo": "A notícia já era cediça entre os moradores.",
+    "frances": "rassis",
+    "ingles": "stale"
+  },
+  {
+    "id": 35,
+    "palavra": "célere",
+    "classe": "adjetivo",
+    "definicao": "rápido, veloz",
+    "exemplo": "Precisamos de uma resposta célere.",
+    "frances": "rapide",
+    "ingles": "swift"
+  },
+  {
+    "id": 36,
+    "palavra": "cerne",
+    "classe": "substantivo",
+    "definicao": "parte central, essência",
+    "exemplo": "O cerne da questão não foi discutido.",
+    "frances": "cœur",
+    "ingles": "core"
+  },
+  {
+    "id": 37,
+    "palavra": "cizânia",
+    "classe": "substantivo",
+    "definicao": "discórdia, desavença semeada entre pessoas",
+    "exemplo": "Ele adorava plantar cizânia entre os colegas.",
+    "frances": "zizanie",
+    "ingles": "discord"
+  },
+  {
+    "id": 38,
+    "palavra": "clivagem",
+    "classe": "substantivo",
+    "definicao": "divisão, separação nítida",
+    "exemplo": "Havia clara clivagem entre os dois grupos políticos.",
+    "frances": "clivage",
+    "ingles": "cleavage"
+  },
+  {
+    "id": 39,
+    "palavra": "cognato",
+    "classe": "adjetivo",
+    "definicao": "que tem a mesma origem; aparentado",
+    "exemplo": "As palavras eram cognatas do latim.",
+    "frances": "cognat",
+    "ingles": "cognate"
+  },
+  {
+    "id": 40,
+    "palavra": "comezinho",
+    "classe": "adjetivo",
+    "definicao": "simples, corriqueiro, banal",
+    "exemplo": "Tratava-se de um problema comezinho.",
+    "frances": "banal",
+    "ingles": "trivial"
+  },
+  {
+    "id": 41,
+    "palavra": "comiseração",
+    "classe": "substantivo",
+    "definicao": "compaixão, piedade",
+    "exemplo": "Olhou para o mendigo com comiseração.",
+    "frances": "compassion",
+    "ingles": "commiseration"
+  },
+  {
+    "id": 42,
+    "palavra": "concomitante",
+    "classe": "adjetivo",
+    "definicao": "que ocorre ao mesmo tempo",
+    "exemplo": "Os dois eventos foram concomitantes.",
+    "frances": "concomitant",
+    "ingles": "concomitant"
+  },
+  {
+    "id": 43,
+    "palavra": "concórdia",
+    "classe": "substantivo",
+    "definicao": "harmonia, paz entre pessoas",
+    "exemplo": "Buscavam a concórdia entre as famílias rivais.",
+    "frances": "concorde",
+    "ingles": "concord"
+  },
+  {
+    "id": 44,
+    "palavra": "consuetudinário",
+    "classe": "adjetivo",
+    "definicao": "baseado no costume, habitual",
+    "exemplo": "O direito consuetudinário varia entre as comunidades.",
+    "frances": "coutumier",
+    "ingles": "customary"
+  },
+  {
+    "id": 45,
+    "palavra": "contumaz",
+    "classe": "adjetivo",
+    "definicao": "teimoso, obstinado, reincidente",
+    "exemplo": "Era um infrator contumaz das regras.",
+    "frances": "contumace",
+    "ingles": "contumacious"
+  },
+  {
+    "id": 46,
+    "palavra": "corolário",
+    "classe": "substantivo",
+    "definicao": "consequência natural, decorrência lógica",
+    "exemplo": "O desemprego foi corolário da crise econômica.",
+    "frances": "corollaire",
+    "ingles": "corollary"
+  },
+  {
+    "id": 47,
+    "palavra": "crasso",
+    "classe": "adjetivo",
+    "definicao": "grosseiro, grave (erro)",
+    "exemplo": "Cometeu um erro crasso no relatório.",
+    "frances": "grossier",
+    "ingles": "crass"
+  },
+  {
+    "id": 48,
+    "palavra": "crepuscular",
+    "classe": "adjetivo",
+    "definicao": "relativo ao crepúsculo; declinante",
+    "exemplo": "A cidade tinha uma luz crepuscular ao entardecer.",
+    "frances": "crépusculaire",
+    "ingles": "crepuscular"
+  },
+  {
+    "id": 49,
+    "palavra": "crivar",
+    "classe": "verbo",
+    "definicao": "perfurar em muitos pontos; encher de",
+    "exemplo": "A parede foi crivada de balas.",
+    "frances": "cribler",
+    "ingles": "to riddle"
+  },
+  {
+    "id": 50,
+    "palavra": "cupidez",
+    "classe": "substantivo",
+    "definicao": "ganância excessiva",
+    "exemplo": "A cupidez o levou à ruína.",
+    "frances": "cupidité",
+    "ingles": "cupidity"
+  },
+  {
+    "id": 51,
+    "palavra": "dádiva",
+    "classe": "substantivo",
+    "definicao": "presente, doação generosa",
+    "exemplo": "Recebeu a herança como uma dádiva inesperada.",
+    "frances": "don",
+    "ingles": "gift"
+  },
+  {
+    "id": 52,
+    "palavra": "deletério",
+    "classe": "adjetivo",
+    "definicao": "nocivo, prejudicial",
+    "exemplo": "O efeito deletério da poluição é evidente.",
+    "frances": "délétère",
+    "ingles": "deleterious"
+  },
+  {
+    "id": 53,
+    "palavra": "denodado",
+    "classe": "adjetivo",
+    "definicao": "corajoso, esforçado",
+    "exemplo": "Fez um esforço denodado para salvar a empresa.",
+    "frances": "acharné",
+    "ingles": "valiant"
+  },
+  {
+    "id": 54,
+    "palavra": "desiderato",
+    "classe": "substantivo",
+    "definicao": "aspiração, objetivo desejado",
+    "exemplo": "A paz mundial é o desiderato de muitos povos.",
+    "frances": "désidérata",
+    "ingles": "desideratum"
+  },
+  {
+    "id": 55,
+    "palavra": "destemperado",
+    "classe": "adjetivo",
+    "definicao": "descontrolado, sem moderação",
+    "exemplo": "Reagiu de modo destemperado à crítica.",
+    "frances": "déréglé",
+    "ingles": "intemperate"
+  },
+  {
+    "id": 56,
+    "palavra": "dicotomia",
+    "classe": "substantivo",
+    "definicao": "divisão em duas partes opostas",
+    "exemplo": "Havia uma dicotomia entre teoria e prática.",
+    "frances": "dichotomie",
+    "ingles": "dichotomy"
+  },
+  {
+    "id": 57,
+    "palavra": "dileto",
+    "classe": "adjetivo",
+    "definicao": "querido, estimado",
+    "exemplo": "Escreveu uma carta ao dileto amigo.",
+    "frances": "cher",
+    "ingles": "beloved"
+  },
+  {
+    "id": 58,
+    "palavra": "diligente",
+    "classe": "adjetivo",
+    "definicao": "aplicado, cuidadoso, empenhado",
+    "exemplo": "O funcionário diligente terminou o trabalho antes do prazo.",
+    "frances": "diligent",
+    "ingles": "diligent"
+  },
+  {
+    "id": 59,
+    "palavra": "dirimir",
+    "classe": "verbo",
+    "definicao": "resolver, dissipar (dúvida ou conflito)",
+    "exemplo": "O juiz dirimiu a controvérsia entre as partes.",
+    "frances": "dissiper",
+    "ingles": "to resolve"
+  },
+  {
+    "id": 60,
+    "palavra": "discernir",
+    "classe": "verbo",
+    "definicao": "distinguir, perceber com clareza",
+    "exemplo": "Era difícil discernir o certo do errado ali.",
+    "frances": "discerner",
+    "ingles": "to discern"
+  },
+  {
+    "id": 61,
+    "palavra": "dissonante",
+    "classe": "adjetivo",
+    "definicao": "que destoa, discordante",
+    "exemplo": "A opinião dele era dissonante do grupo.",
+    "frances": "dissonant",
+    "ingles": "dissonant"
+  },
+  {
+    "id": 62,
+    "palavra": "dúctil",
+    "classe": "adjetivo",
+    "definicao": "maleável, flexível, fácil de moldar",
+    "exemplo": "O metal dúctil se moldava facilmente.",
+    "frances": "ductile",
+    "ingles": "ductile"
+  },
+  {
+    "id": 63,
+    "palavra": "edulcorar",
+    "classe": "verbo",
+    "definicao": "adoçar; suavizar algo negativo",
+    "exemplo": "O comunicado edulcorou a má notícia.",
+    "frances": "édulcorer",
+    "ingles": "to sweeten"
+  },
+  {
+    "id": 64,
+    "palavra": "efêmero",
+    "classe": "adjetivo",
+    "definicao": "passageiro, de curta duração",
+    "exemplo": "A fama efêmera logo se dissipou.",
+    "frances": "éphémère",
+    "ingles": "ephemeral"
+  },
+  {
+    "id": 65,
+    "palavra": "eflúvio",
+    "classe": "substantivo",
+    "definicao": "emanação sutil, aroma leve",
+    "exemplo": "Um eflúvio de perfume pairava no ar.",
+    "frances": "effluve",
+    "ingles": "effluvium"
+  },
+  {
+    "id": 66,
+    "palavra": "elidir",
+    "classe": "verbo",
+    "definicao": "suprimir, eliminar (som ou elemento)",
+    "exemplo": "A regra manda elidir a vogal final.",
+    "frances": "élider",
+    "ingles": "to elide"
+  },
+  {
+    "id": 67,
+    "palavra": "elucubração",
+    "classe": "substantivo",
+    "definicao": "reflexão profunda, especulação",
+    "exemplo": "Suas elucubrações filosóficas duravam horas.",
+    "frances": "élucubration",
+    "ingles": "lucubration"
+  },
+  {
+    "id": 68,
+    "palavra": "emérito",
+    "classe": "adjetivo",
+    "definicao": "aposentado com honras; eminente",
+    "exemplo": "O professor emérito ainda dava palestras.",
+    "frances": "émérite",
+    "ingles": "emeritus"
+  },
+  {
+    "id": 69,
+    "palavra": "empedernido",
+    "classe": "adjetivo",
+    "definicao": "endurecido, obstinado, insensível",
+    "exemplo": "Era um criminoso empedernido, sem remorso.",
+    "frances": "endurci",
+    "ingles": "hardened"
+  },
+  {
+    "id": 70,
+    "palavra": "encômio",
+    "classe": "substantivo",
+    "definicao": "elogio formal",
+    "exemplo": "O crítico fez um encômio da obra.",
+    "frances": "éloge",
+    "ingles": "encomium"
+  },
+  {
+    "id": 71,
+    "palavra": "enfadonho",
+    "classe": "adjetivo",
+    "definicao": "cansativo, tedioso",
+    "exemplo": "A palestra foi longa e enfadonha.",
+    "frances": "ennuyeux",
+    "ingles": "tedious"
+  },
+  {
+    "id": 72,
+    "palavra": "engenho",
+    "classe": "substantivo",
+    "definicao": "talento criativo, inventividade",
+    "exemplo": "Resolveu o problema com muito engenho.",
+    "frances": "ingéniosité",
+    "ingles": "ingenuity"
+  },
+  {
+    "id": 73,
+    "palavra": "ensimesmado",
+    "classe": "adjetivo",
+    "definicao": "absorto em si mesmo, introspectivo",
+    "exemplo": "Ficou ensimesmado durante toda a viagem.",
+    "frances": "absorbé",
+    "ingles": "self-absorbed"
+  },
+  {
+    "id": 74,
+    "palavra": "epítome",
+    "classe": "substantivo",
+    "definicao": "resumo, síntese exemplar de algo",
+    "exemplo": "A obra é o epítome do estilo barroco.",
+    "frances": "épitomé",
+    "ingles": "epitome"
+  },
+  {
+    "id": 75,
+    "palavra": "equânime",
+    "classe": "adjetivo",
+    "definicao": "justo, imparcial, equilibrado",
+    "exemplo": "O árbitro foi equânime nas decisões.",
+    "frances": "équanime",
+    "ingles": "even-tempered"
+  },
+  {
+    "id": 76,
+    "palavra": "escamotear",
+    "classe": "verbo",
+    "definicao": "ocultar com esperteza, sonegar",
+    "exemplo": "A empresa tentou escamotear os prejuízos.",
+    "frances": "escamoter",
+    "ingles": "to conceal"
+  },
+  {
+    "id": 77,
+    "palavra": "escarnecer",
+    "classe": "verbo",
+    "definicao": "zombar, ridicularizar",
+    "exemplo": "Os colegas escarneceram do seu sotaque.",
+    "frances": "railler",
+    "ingles": "to mock"
+  },
+  {
+    "id": 78,
+    "palavra": "esdrúxulo",
+    "classe": "adjetivo",
+    "definicao": "estranho, extravagante; palavra com acento na antepenúltima sílaba",
+    "exemplo": "Fez uma proposta esdrúxula na reunião.",
+    "frances": "saugrenu",
+    "ingles": "outlandish"
+  },
+  {
+    "id": 79,
+    "palavra": "estultice",
+    "classe": "substantivo",
+    "definicao": "tolice, estupidez",
+    "exemplo": "Foi uma estultice apostar todo o dinheiro.",
+    "frances": "sottise",
+    "ingles": "folly"
+  },
+  {
+    "id": 80,
+    "palavra": "exíguo",
+    "classe": "adjetivo",
+    "definicao": "escasso, muito pequeno",
+    "exemplo": "Recebia um salário exíguo pelo trabalho.",
+    "frances": "exigu",
+    "ingles": "meager"
+  },
+  {
+    "id": 81,
+    "palavra": "exortar",
+    "classe": "verbo",
+    "definicao": "incentivar, encorajar fortemente",
+    "exemplo": "O treinador exortou o time antes da final.",
+    "frances": "exhorter",
+    "ingles": "to exhort"
+  },
+  {
+    "id": 82,
+    "palavra": "fastidioso",
+    "classe": "adjetivo",
+    "definicao": "enfadonho, cansativo, meticuloso demais",
+    "exemplo": "O processo burocrático era fastidioso.",
+    "frances": "fastidieux",
+    "ingles": "tedious"
+  },
+  {
+    "id": 83,
+    "palavra": "fátuo",
+    "classe": "adjetivo",
+    "definicao": "vaidoso, presunçoso, sem substância",
+    "exemplo": "O rapaz fátuo só falava de si mesmo.",
+    "frances": "fat",
+    "ingles": "fatuous"
+  },
+  {
+    "id": 84,
+    "palavra": "fecundo",
+    "classe": "adjetivo",
+    "definicao": "fértil, produtivo",
+    "exemplo": "Foi um período fecundo para sua carreira artística.",
+    "frances": "fécond",
+    "ingles": "fruitful"
+  },
+  {
+    "id": 85,
+    "palavra": "fito",
+    "classe": "substantivo",
+    "definicao": "objetivo, propósito, alvo",
+    "exemplo": "Tinha por fito conquistar a independência financeira.",
+    "frances": "but",
+    "ingles": "aim"
+  },
+  {
+    "id": 86,
+    "palavra": "frugal",
+    "classe": "adjetivo",
+    "definicao": "simples, moderado, sem luxo",
+    "exemplo": "Levava uma vida frugal apesar da fortuna.",
+    "frances": "frugal",
+    "ingles": "frugal"
+  },
+  {
+    "id": 87,
+    "palavra": "garrulice",
+    "classe": "substantivo",
+    "definicao": "tagarelice excessiva",
+    "exemplo": "A garrulice da vizinha durava horas.",
+    "frances": "bavardage",
+    "ingles": "garrulity"
+  },
+  {
+    "id": 88,
+    "palavra": "gizar",
+    "classe": "verbo",
+    "definicao": "planejar, esboçar com cuidado",
+    "exemplo": "Gizou um plano detalhado para o projeto.",
+    "frances": "concevoir",
+    "ingles": "to devise"
+  },
+  {
+    "id": 89,
+    "palavra": "grassar",
+    "classe": "verbo",
+    "definicao": "alastrar-se, propagar-se (doença, boato)",
+    "exemplo": "A epidemia grassava pela região.",
+    "frances": "sévir",
+    "ingles": "to rage"
+  },
+  {
+    "id": 90,
+    "palavra": "hercúleo",
+    "classe": "adjetivo",
+    "definicao": "muito forte, de grande vigor",
+    "exemplo": "Fez um esforço hercúleo para terminar a obra.",
+    "frances": "herculéen",
+    "ingles": "herculean"
+  },
+  {
+    "id": 91,
+    "palavra": "hialino",
+    "classe": "adjetivo",
+    "definicao": "transparente como vidro ou cristal",
+    "exemplo": "A água do lago era hialina.",
+    "frances": "hyalin",
+    "ingles": "hyaline"
+  },
+  {
+    "id": 92,
+    "palavra": "hirsuto",
+    "classe": "adjetivo",
+    "definicao": "eriçado, cabeludo, áspero",
+    "exemplo": "O cão tinha pelo hirsuto e desgrenhado.",
+    "frances": "hirsute",
+    "ingles": "hirsute"
+  },
+  {
+    "id": 93,
+    "palavra": "hodierno",
+    "classe": "adjetivo",
+    "definicao": "de hoje, atual, contemporâneo",
+    "exemplo": "Os costumes hodiernos diferem muito dos antigos.",
+    "frances": "actuel",
+    "ingles": "present-day"
+  },
+  {
+    "id": 94,
+    "palavra": "iconoclasta",
+    "classe": "substantivo",
+    "definicao": "que rejeita tradições e ídolos estabelecidos",
+    "exemplo": "O artista era um iconoclasta em relação à arte clássica.",
+    "frances": "iconoclaste",
+    "ingles": "iconoclast"
+  },
+  {
+    "id": 95,
+    "palavra": "idílico",
+    "classe": "adjetivo",
+    "definicao": "aprazível, harmonioso, quase perfeito",
+    "exemplo": "Passaram férias num cenário idílico.",
+    "frances": "idyllique",
+    "ingles": "idyllic"
+  },
+  {
+    "id": 96,
+    "palavra": "ignaro",
+    "classe": "adjetivo",
+    "definicao": "ignorante, sem instrução",
+    "exemplo": "Recusava-se a admitir que era ignaro no assunto.",
+    "frances": "ignare",
+    "ingles": "ignorant"
+  },
+  {
+    "id": 97,
+    "palavra": "ilibado",
+    "classe": "adjetivo",
+    "definicao": "íntegro, de reputação limpa",
+    "exemplo": "O candidato tinha um passado ilibado.",
+    "frances": "irréprochable",
+    "ingles": "unblemished"
+  },
+  {
+    "id": 98,
+    "palavra": "imerecido",
+    "classe": "adjetivo",
+    "definicao": "que não se merece, injusto",
+    "exemplo": "Recebeu uma crítica imerecida pelo trabalho.",
+    "frances": "immérité",
+    "ingles": "undeserved"
+  },
+  {
+    "id": 99,
+    "palavra": "imiscuir-se",
+    "classe": "verbo",
+    "definicao": "intrometer-se, envolver-se indevidamente",
+    "exemplo": "Preferiu não se imiscuir na discussão alheia.",
+    "frances": "s'immiscer",
+    "ingles": "to meddle"
+  },
+  {
+    "id": 100,
+    "palavra": "imorredouro",
+    "classe": "adjetivo",
+    "definicao": "imortal, que não morre, duradouro",
+    "exemplo": "Deixou uma obra imorredoura na literatura.",
+    "frances": "impérissable",
+    "ingles": "undying"
+  },
+  {
+    "id": 101,
+    "palavra": "impávido",
+    "classe": "adjetivo",
+    "definicao": "corajoso, sem medo",
+    "exemplo": "Enfrentou o perigo impávido e sereno.",
+    "frances": "impavide",
+    "ingles": "fearless"
+  },
+  {
+    "id": 102,
+    "palavra": "ímpeto",
+    "classe": "substantivo",
+    "definicao": "impulso forte e repentino",
+    "exemplo": "Agiu por ímpeto, sem pensar nas consequências.",
+    "frances": "élan",
+    "ingles": "impulse"
+  },
+  {
+    "id": 103,
+    "palavra": "imprecar",
+    "classe": "verbo",
+    "definicao": "rogar praga, amaldiçoar",
+    "exemplo": "O velho imprecava contra a injustiça do destino.",
+    "frances": "imprécater",
+    "ingles": "to imprecate"
+  },
+  {
+    "id": 104,
+    "palavra": "imutável",
+    "classe": "adjetivo",
+    "definicao": "que não muda, constante",
+    "exemplo": "As leis da física eram tidas como imutáveis.",
+    "frances": "immuable",
+    "ingles": "immutable"
+  },
+  {
+    "id": 105,
+    "palavra": "inane",
+    "classe": "adjetivo",
+    "definicao": "vazio, sem sentido, fútil",
+    "exemplo": "Fez um discurso inane, sem qualquer conteúdo.",
+    "frances": "inepte",
+    "ingles": "inane"
+  },
+  {
+    "id": 106,
+    "palavra": "inaudito",
+    "classe": "adjetivo",
+    "definicao": "nunca antes ouvido, extraordinário",
+    "exemplo": "Foi um caso inaudito na história do tribunal.",
+    "frances": "inouï",
+    "ingles": "unheard-of"
+  },
+  {
+    "id": 107,
+    "palavra": "incólume",
+    "classe": "adjetivo",
+    "definicao": "ileso, sem dano",
+    "exemplo": "Saiu incólume do acidente.",
+    "frances": "indemne",
+    "ingles": "unscathed"
+  },
+  {
+    "id": 108,
+    "palavra": "indefectível",
+    "classe": "adjetivo",
+    "definicao": "que não falha, infalível, constante",
+    "exemplo": "Contava com o apoio indefectível dos amigos.",
+    "frances": "indéfectible",
+    "ingles": "unfailing"
+  },
+  {
+    "id": 109,
+    "palavra": "indigitar",
+    "classe": "verbo",
+    "definicao": "apontar, indicar, designar",
+    "exemplo": "O comitê indigitou o novo presidente.",
+    "frances": "désigner",
+    "ingles": "to designate"
+  },
+  {
+    "id": 110,
+    "palavra": "indolência",
+    "classe": "substantivo",
+    "definicao": "preguiça, apatia",
+    "exemplo": "A indolência do funcionário irritava os chefes.",
+    "frances": "indolence",
+    "ingles": "indolence"
+  },
+  {
+    "id": 111,
+    "palavra": "indômito",
+    "classe": "adjetivo",
+    "definicao": "que não se deixa domar, indomável",
+    "exemplo": "Tinha um espírito indômito e livre.",
+    "frances": "indompté",
+    "ingles": "untamed"
+  },
+  {
+    "id": 112,
+    "palavra": "inefável",
+    "classe": "adjetivo",
+    "definicao": "que não se pode exprimir em palavras",
+    "exemplo": "Sentiu uma alegria inefável ao vê-la novamente.",
+    "frances": "ineffable",
+    "ingles": "ineffable"
+  },
+  {
+    "id": 113,
+    "palavra": "inexorável",
+    "classe": "adjetivo",
+    "definicao": "implacável, que não cede",
+    "exemplo": "O tempo é inexorável e não espera ninguém.",
+    "frances": "inexorable",
+    "ingles": "inexorable"
+  },
+  {
+    "id": 114,
+    "palavra": "inextricável",
+    "classe": "adjetivo",
+    "definicao": "muito complicado, difícil de resolver",
+    "exemplo": "O caso se tornou um enredo inextricável.",
+    "frances": "inextricable",
+    "ingles": "inextricable"
+  },
+  {
+    "id": 115,
+    "palavra": "ingente",
+    "classe": "adjetivo",
+    "definicao": "muito grande, enorme",
+    "exemplo": "Fez um esforço ingente para reconstruir a empresa.",
+    "frances": "immense",
+    "ingles": "huge"
+  },
+  {
+    "id": 116,
+    "palavra": "iníquo",
+    "classe": "adjetivo",
+    "definicao": "injusto, perverso",
+    "exemplo": "Denunciaram um sistema fiscal iníquo.",
+    "frances": "inique",
+    "ingles": "iniquitous"
+  },
+  {
+    "id": 117,
+    "palavra": "inóspito",
+    "classe": "adjetivo",
+    "definicao": "hostil, pouco acolhedor",
+    "exemplo": "O deserto era um lugar inóspito para viver.",
+    "frances": "inhospitalier",
+    "ingles": "inhospitable"
+  },
+  {
+    "id": 118,
+    "palavra": "insigne",
+    "classe": "adjetivo",
+    "definicao": "ilustre, notável, distinto",
+    "exemplo": "Foi homenageado o insigne professor da universidade.",
+    "frances": "insigne",
+    "ingles": "illustrious"
+  },
+  {
+    "id": 119,
+    "palavra": "insipiente",
+    "classe": "adjetivo",
+    "definicao": "ignorante, sem sabedoria",
+    "exemplo": "O comentário insipiente revelou sua falta de estudo.",
+    "frances": "ignorant",
+    "ingles": "unwise"
+  },
+  {
+    "id": 120,
+    "palavra": "insólito",
+    "classe": "adjetivo",
+    "definicao": "incomum, fora do habitual",
+    "exemplo": "Foi um comportamento insólito para alguém tão discreto.",
+    "frances": "insolite",
+    "ingles": "unusual"
+  },
+  {
+    "id": 121,
+    "palavra": "insopitável",
+    "classe": "adjetivo",
+    "definicao": "que não se pode apagar ou conter",
+    "exemplo": "Sentia um desejo insopitável de viajar.",
+    "frances": "irrépressible",
+    "ingles": "unquenchable"
+  },
+  {
+    "id": 122,
+    "palavra": "intempestivo",
+    "classe": "adjetivo",
+    "definicao": "inoportuno, fora de hora",
+    "exemplo": "A chuva intempestiva atrapalhou o evento.",
+    "frances": "intempestif",
+    "ingles": "untimely"
+  },
+  {
+    "id": 123,
+    "palavra": "intumescer",
+    "classe": "verbo",
+    "definicao": "inchar, aumentar de volume",
+    "exemplo": "O rio intumesceu com as chuvas de março.",
+    "frances": "enfler",
+    "ingles": "to swell"
+  },
+  {
+    "id": 124,
+    "palavra": "iterativo",
+    "classe": "adjetivo",
+    "definicao": "que se repete, repetitivo",
+    "exemplo": "O processo iterativo refinava o resultado a cada etapa.",
+    "frances": "itératif",
+    "ingles": "iterative"
+  },
+  {
+    "id": 125,
+    "palavra": "labiríntico",
+    "classe": "adjetivo",
+    "definicao": "confuso, cheio de voltas, complexo",
+    "exemplo": "A burocracia era labiríntica e demorada.",
+    "frances": "labyrinthique",
+    "ingles": "labyrinthine"
+  },
+  {
+    "id": 126,
+    "palavra": "labor",
+    "classe": "substantivo",
+    "definicao": "trabalho, esforço árduo",
+    "exemplo": "O labor no campo começava antes do amanhecer.",
+    "frances": "labeur",
+    "ingles": "labor"
+  },
+  {
+    "id": 127,
+    "palavra": "lacônico",
+    "classe": "adjetivo",
+    "definicao": "breve, conciso, de poucas palavras",
+    "exemplo": "Respondeu de modo lacônico à pergunta.",
+    "frances": "laconique",
+    "ingles": "laconic"
+  },
+  {
+    "id": 128,
+    "palavra": "languescer",
+    "classe": "verbo",
+    "definicao": "enfraquecer, perder o vigor",
+    "exemplo": "O entusiasmo do grupo começou a languescer.",
+    "frances": "languir",
+    "ingles": "to languish"
+  },
+  {
+    "id": 129,
+    "palavra": "lastimável",
+    "classe": "adjetivo",
+    "definicao": "digno de pena, deplorável",
+    "exemplo": "Foi um episódio lastimável na história do clube.",
+    "frances": "déplorable",
+    "ingles": "lamentable"
+  },
+  {
+    "id": 130,
+    "palavra": "latente",
+    "classe": "adjetivo",
+    "definicao": "oculto, não manifesto ainda",
+    "exemplo": "Havia um conflito latente entre os sócios.",
+    "frances": "latent",
+    "ingles": "latent"
+  },
+  {
+    "id": 131,
+    "palavra": "lenocínio",
+    "classe": "substantivo",
+    "definicao": "exploração da prostituição alheia",
+    "exemplo": "Foi condenado por lenocínio.",
+    "frances": "proxénétisme",
+    "ingles": "procuring"
+  },
+  {
+    "id": 132,
+    "palavra": "lépido",
+    "classe": "adjetivo",
+    "definicao": "alegre, jovial, ágil",
+    "exemplo": "O velho, lépido, ainda dançava com graça.",
+    "frances": "enjoué",
+    "ingles": "sprightly"
+  },
+  {
+    "id": 133,
+    "palavra": "liame",
+    "classe": "substantivo",
+    "definicao": "laço, vínculo, elo",
+    "exemplo": "Havia um forte liame afetivo entre os irmãos.",
+    "frances": "lien",
+    "ingles": "bond"
+  },
+  {
+    "id": 134,
+    "palavra": "lídimo",
+    "classe": "adjetivo",
+    "definicao": "legítimo, genuíno, puro",
+    "exemplo": "Defendia o lídimo interesse do povo.",
+    "frances": "légitime",
+    "ingles": "genuine"
+  },
+  {
+    "id": 135,
+    "palavra": "lisonjear",
+    "classe": "verbo",
+    "definicao": "elogiar com exagero, adular",
+    "exemplo": "Tentava lisonjear o chefe para ser promovido.",
+    "frances": "flatter",
+    "ingles": "to flatter"
+  },
+  {
+    "id": 136,
+    "palavra": "lividez",
+    "classe": "substantivo",
+    "definicao": "palidez extrema, cor de chumbo",
+    "exemplo": "A lividez do rosto denunciava o susto.",
+    "frances": "lividité",
+    "ingles": "lividness"
+  },
+  {
+    "id": 137,
+    "palavra": "locupletar",
+    "classe": "verbo",
+    "definicao": "enriquecer, especialmente de forma ilícita",
+    "exemplo": "O funcionário se locupletou com o dinheiro público.",
+    "frances": "s'enrichir",
+    "ingles": "to enrich oneself"
+  },
+  {
+    "id": 138,
+    "palavra": "loquaz",
+    "classe": "adjetivo",
+    "definicao": "falante, comunicativo em excesso",
+    "exemplo": "O vendedor loquaz não parava de falar.",
+    "frances": "loquace",
+    "ingles": "loquacious"
+  },
+  {
+    "id": 139,
+    "palavra": "lúgubre",
+    "classe": "adjetivo",
+    "definicao": "triste, sombrio, fúnebre",
+    "exemplo": "A música tinha um tom lúgubre e melancólico.",
+    "frances": "lugubre",
+    "ingles": "lugubrious"
+  },
+  {
+    "id": 140,
+    "palavra": "magnânimo",
+    "classe": "adjetivo",
+    "definicao": "generoso, nobre de espírito",
+    "exemplo": "O rei foi magnânimo ao perdoar os rebeldes.",
+    "frances": "magnanime",
+    "ingles": "magnanimous"
+  },
+  {
+    "id": 141,
+    "palavra": "maquinal",
+    "classe": "adjetivo",
+    "definicao": "automático, feito sem pensar",
+    "exemplo": "Fez o gesto maquinal de trancar a porta.",
+    "frances": "machinal",
+    "ingles": "mechanical"
+  },
+  {
+    "id": 142,
+    "palavra": "mendaz",
+    "classe": "adjetivo",
+    "definicao": "mentiroso, falso",
+    "exemplo": "O relatório mendaz enganou os investidores.",
+    "frances": "mensonger",
+    "ingles": "mendacious"
+  },
+  {
+    "id": 143,
+    "palavra": "mesquinho",
+    "classe": "adjetivo",
+    "definicao": "avarento, de espírito pequeno",
+    "exemplo": "Foi mesquinho ao não dividir o lucro com a equipe.",
+    "frances": "mesquin",
+    "ingles": "mean"
+  },
+  {
+    "id": 144,
+    "palavra": "mister",
+    "classe": "substantivo",
+    "definicao": "necessidade, aquilo que é preciso",
+    "exemplo": "É mister resolver o problema com urgência.",
+    "frances": "nécessaire",
+    "ingles": "necessary"
+  },
+  {
+    "id": 145,
+    "palavra": "morigerado",
+    "classe": "adjetivo",
+    "definicao": "de bons costumes, comedido",
+    "exemplo": "Levava uma vida morigerada e discreta.",
+    "frances": "réservé",
+    "ingles": "well-behaved"
+  },
+  {
+    "id": 146,
+    "palavra": "mórbido",
+    "classe": "adjetivo",
+    "definicao": "doentio; que revela gosto por temas macabros",
+    "exemplo": "Tinha uma curiosidade mórbida por histórias de crime.",
+    "frances": "morbide",
+    "ingles": "morbid"
+  },
+  {
+    "id": 147,
+    "palavra": "nefando",
+    "classe": "adjetivo",
+    "definicao": "abominável, repugnante",
+    "exemplo": "Cometeu um crime nefando contra a comunidade.",
+    "frances": "abominable",
+    "ingles": "heinous"
+  },
+  {
+    "id": 148,
+    "palavra": "nefasto",
+    "classe": "adjetivo",
+    "definicao": "funesto, que causa desgraça",
+    "exemplo": "A decisão teve efeitos nefastos na economia.",
+    "frances": "néfaste",
+    "ingles": "harmful"
+  },
+  {
+    "id": 149,
+    "palavra": "nefelibata",
+    "classe": "adjetivo",
+    "definicao": "sonhador, alheio à realidade",
+    "exemplo": "O poeta nefelibata vivia em seu próprio mundo.",
+    "frances": "rêveur",
+    "ingles": "dreamy"
+  },
+  {
+    "id": 150,
+    "palavra": "nítido",
+    "classe": "adjetivo",
+    "definicao": "claro, evidente, sem ambiguidade",
+    "exemplo": "Havia um nítido contraste entre os dois estilos.",
+    "frances": "net",
+    "ingles": "clear"
+  },
+  {
+    "id": 151,
+    "palavra": "obliterar",
+    "classe": "verbo",
+    "definicao": "apagar, eliminar por completo",
+    "exemplo": "O tempo obliterou quase todas as memórias do lugar.",
+    "frances": "oblitérer",
+    "ingles": "to obliterate"
+  },
+  {
+    "id": 152,
+    "palavra": "obnubilar",
+    "classe": "verbo",
+    "definicao": "obscurecer, ofuscar o entendimento",
+    "exemplo": "A raiva obnubilava seu julgamento.",
+    "frances": "obnubiler",
+    "ingles": "to obscure"
+  },
+  {
+    "id": 153,
+    "palavra": "obsequioso",
+    "classe": "adjetivo",
+    "definicao": "excessivamente atencioso, servil",
+    "exemplo": "O garçom era obsequioso demais com os clientes ricos.",
+    "frances": "obséquieux",
+    "ingles": "obsequious"
+  },
+  {
+    "id": 154,
+    "palavra": "obstinação",
+    "classe": "substantivo",
+    "definicao": "teimosia, persistência firme",
+    "exemplo": "Venceu graças à sua obstinação nos treinos.",
+    "frances": "obstination",
+    "ingles": "obstinacy"
+  },
+  {
+    "id": 155,
+    "palavra": "olvidar",
+    "classe": "verbo",
+    "definicao": "esquecer",
+    "exemplo": "Nunca olvidou os ensinamentos da avó.",
+    "frances": "oublier",
+    "ingles": "to forget"
+  },
+  {
+    "id": 156,
+    "palavra": "onipotente",
+    "classe": "adjetivo",
+    "definicao": "que tem poder ilimitado",
+    "exemplo": "Sentia-se onipotente após o sucesso repentino.",
+    "frances": "omnipotent",
+    "ingles": "omnipotent"
+  },
+  {
+    "id": 157,
+    "palavra": "opróbrio",
+    "classe": "substantivo",
+    "definicao": "desonra pública, vergonha",
+    "exemplo": "O escândalo trouxe opróbrio à família.",
+    "frances": "opprobre",
+    "ingles": "opprobrium"
+  },
+  {
+    "id": 158,
+    "palavra": "órfico",
+    "classe": "adjetivo",
+    "definicao": "misterioso, hermético, relativo a Orfeu",
+    "exemplo": "Os versos tinham um caráter órfico e obscuro.",
+    "frances": "orphique",
+    "ingles": "orphic"
+  },
+  {
+    "id": 159,
+    "palavra": "ostracismo",
+    "classe": "substantivo",
+    "definicao": "exclusão social ou política",
+    "exemplo": "Foi condenado ao ostracismo pelos antigos colegas.",
+    "frances": "ostracisme",
+    "ingles": "ostracism"
+  },
+  {
+    "id": 160,
+    "palavra": "pachorra",
+    "classe": "substantivo",
+    "definicao": "calma excessiva, lentidão",
+    "exemplo": "Fazia tudo com uma pachorra irritante.",
+    "frances": "flegme",
+    "ingles": "sluggishness"
+  },
+  {
+    "id": 161,
+    "palavra": "palmilhar",
+    "classe": "verbo",
+    "definicao": "percorrer a pé, caminhar por",
+    "exemplo": "Palmilhou quilômetros à procura de trabalho.",
+    "frances": "parcourir",
+    "ingles": "to tread"
+  },
+  {
+    "id": 162,
+    "palavra": "parcimônia",
+    "classe": "substantivo",
+    "definicao": "moderação, economia, sobriedade",
+    "exemplo": "Administrava os recursos com parcimônia.",
+    "frances": "parcimonie",
+    "ingles": "parsimony"
+  },
+  {
+    "id": 163,
+    "palavra": "paradigma",
+    "classe": "substantivo",
+    "definicao": "modelo, padrão exemplar",
+    "exemplo": "A descoberta mudou o paradigma científico da época.",
+    "frances": "paradigme",
+    "ingles": "paradigm"
+  },
+  {
+    "id": 164,
+    "palavra": "parco",
+    "classe": "adjetivo",
+    "definicao": "escasso, moderado, sóbrio",
+    "exemplo": "Vivia com um salário parco, mas satisfeito.",
+    "frances": "maigre",
+    "ingles": "scant"
+  },
+  {
+    "id": 165,
+    "palavra": "patente",
+    "classe": "adjetivo",
+    "definicao": "evidente, claro, manifesto",
+    "exemplo": "O erro era patente para qualquer observador.",
+    "frances": "patent",
+    "ingles": "patent"
+  },
+  {
+    "id": 166,
+    "palavra": "pávido",
+    "classe": "adjetivo",
+    "definicao": "medroso, tímido",
+    "exemplo": "Ficou pávido diante da plateia enorme.",
+    "frances": "peureux",
+    "ingles": "timid"
+  },
+  {
+    "id": 167,
+    "palavra": "perene",
+    "classe": "adjetivo",
+    "definicao": "que dura para sempre, contínuo",
+    "exemplo": "Sentia um amor perene pela terra natal.",
+    "frances": "pérenne",
+    "ingles": "perennial"
+  },
+  {
+    "id": 168,
+    "palavra": "perfunctório",
+    "classe": "adjetivo",
+    "definicao": "feito por obrigação, superficial",
+    "exemplo": "Deu uma olhada perfunctória no relatório.",
+    "frances": "superficiel",
+    "ingles": "perfunctory"
+  },
+  {
+    "id": 169,
+    "palavra": "perlustrar",
+    "classe": "verbo",
+    "definicao": "examinar minuciosamente, percorrer investigando",
+    "exemplo": "A polícia perlustrou toda a área do crime.",
+    "frances": "explorer",
+    "ingles": "to survey"
+  },
+  {
+    "id": 170,
+    "palavra": "pérfido",
+    "classe": "adjetivo",
+    "definicao": "traidor, desleal",
+    "exemplo": "O pérfido amigo revelou o segredo aos inimigos.",
+    "frances": "perfide",
+    "ingles": "perfidious"
+  },
+  {
+    "id": 171,
+    "palavra": "perscrutar",
+    "classe": "verbo",
+    "definicao": "examinar atentamente, investigar a fundo",
+    "exemplo": "O cientista perscrutava os dados em busca de padrões.",
+    "frances": "scruter",
+    "ingles": "to scrutinize"
+  },
+  {
+    "id": 172,
+    "palavra": "pertinaz",
+    "classe": "adjetivo",
+    "definicao": "teimoso, persistente",
+    "exemplo": "Lutou com pertinaz determinação contra a doença.",
+    "frances": "tenace",
+    "ingles": "stubborn"
+  },
+  {
+    "id": 173,
+    "palavra": "perturbador",
+    "classe": "adjetivo",
+    "definicao": "que causa perturbação, inquietante",
+    "exemplo": "A notícia teve um efeito perturbador na equipe.",
+    "frances": "perturbateur",
+    "ingles": "disturbing"
+  },
+  {
+    "id": 174,
+    "palavra": "pletora",
+    "classe": "substantivo",
+    "definicao": "abundância excessiva",
+    "exemplo": "Havia uma pletora de informações sobre o tema.",
+    "frances": "pléthore",
+    "ingles": "plethora"
+  },
+  {
+    "id": 175,
+    "palavra": "plúmbeo",
+    "classe": "adjetivo",
+    "definicao": "pesado como chumbo; sombrio",
+    "exemplo": "O céu tinha uma cor plúmbea antes da tempestade.",
+    "frances": "plombé",
+    "ingles": "leaden"
+  },
+  {
+    "id": 176,
+    "palavra": "premonição",
+    "classe": "substantivo",
+    "definicao": "pressentimento de algo futuro",
+    "exemplo": "Teve uma premonição de que algo daria errado.",
+    "frances": "prémonition",
+    "ingles": "premonition"
+  },
+  {
+    "id": 177,
+    "palavra": "premente",
+    "classe": "adjetivo",
+    "definicao": "urgente, que pressiona",
+    "exemplo": "A necessidade premente de reforma era evidente.",
+    "frances": "pressant",
+    "ingles": "pressing"
+  },
+  {
+    "id": 178,
+    "palavra": "prístino",
+    "classe": "adjetivo",
+    "definicao": "original, puro, primitivo",
+    "exemplo": "A floresta mantinha seu estado prístino.",
+    "frances": "originel",
+    "ingles": "pristine"
+  },
+  {
+    "id": 179,
+    "palavra": "profícuo",
+    "classe": "adjetivo",
+    "definicao": "proveitoso, útil, vantajoso",
+    "exemplo": "Tivemos uma reunião profícua com os investidores.",
+    "frances": "fructueux",
+    "ingles": "fruitful"
+  },
+  {
+    "id": 180,
+    "palavra": "proscrever",
+    "classe": "verbo",
+    "definicao": "banir, proibir formalmente",
+    "exemplo": "A lei proscreveu o uso da substância.",
+    "frances": "proscrire",
+    "ingles": "to proscribe"
+  },
+  {
+    "id": 181,
+    "palavra": "pueril",
+    "classe": "adjetivo",
+    "definicao": "infantil, próprio de criança",
+    "exemplo": "Sua reação foi considerada pueril para a idade.",
+    "frances": "puéril",
+    "ingles": "puerile"
+  },
+  {
+    "id": 182,
+    "palavra": "pugnar",
+    "classe": "verbo",
+    "definicao": "lutar, combater por algo",
+    "exemplo": "Pugnou pelos direitos dos trabalhadores a vida toda.",
+    "frances": "lutter",
+    "ingles": "to fight"
+  },
+  {
+    "id": 183,
+    "palavra": "pulcro",
+    "classe": "adjetivo",
+    "definicao": "belo, elegante, esmerado",
+    "exemplo": "Vestia-se de modo pulcro para as ocasiões formais.",
+    "frances": "soigné",
+    "ingles": "neat"
+  },
+  {
+    "id": 184,
+    "palavra": "pungente",
+    "classe": "adjetivo",
+    "definicao": "que causa dor moral aguda; penetrante",
+    "exemplo": "O relato do sobrevivente foi pungente.",
+    "frances": "poignant",
+    "ingles": "poignant"
+  },
+  {
+    "id": 185,
+    "palavra": "quimera",
+    "classe": "substantivo",
+    "definicao": "ilusão, fantasia irrealizável",
+    "exemplo": "O plano de riqueza fácil era pura quimera.",
+    "frances": "chimère",
+    "ingles": "chimera"
+  },
+  {
+    "id": 186,
+    "palavra": "quiproquó",
+    "classe": "substantivo",
+    "definicao": "mal-entendido, confusão de identidades",
+    "exemplo": "Todo o conflito nasceu de um simples quiproquó.",
+    "frances": "quiproquo",
+    "ingles": "mix-up"
+  },
+  {
+    "id": 187,
+    "palavra": "recôndito",
+    "classe": "adjetivo",
+    "definicao": "escondido, oculto, profundo",
+    "exemplo": "Guardava o segredo no canto mais recôndito da alma.",
+    "frances": "reculé",
+    "ingles": "hidden"
+  },
+  {
+    "id": 188,
+    "palavra": "redivivo",
+    "classe": "adjetivo",
+    "definicao": "que ressurgiu, revivido",
+    "exemplo": "O interesse pelo assunto ficou redivivo após o filme.",
+    "frances": "ressuscité",
+    "ingles": "revived"
+  },
+  {
+    "id": 189,
+    "palavra": "relutância",
+    "classe": "substantivo",
+    "definicao": "resistência, hesitação em aceitar algo",
+    "exemplo": "Aceitou o cargo com evidente relutância.",
+    "frances": "réticence",
+    "ingles": "reluctance"
+  },
+  {
+    "id": 190,
+    "palavra": "remansoso",
+    "classe": "adjetivo",
+    "definicao": "calmo, tranquilo (como águas paradas)",
+    "exemplo": "O rio corria remansoso naquele trecho.",
+    "frances": "calme",
+    "ingles": "placid"
+  },
+  {
+    "id": 191,
+    "palavra": "reticente",
+    "classe": "adjetivo",
+    "definicao": "que hesita em falar, evasivo",
+    "exemplo": "Ficou reticente ao ser questionado sobre o assunto.",
+    "frances": "réticent",
+    "ingles": "reticent"
+  },
+  {
+    "id": 192,
+    "palavra": "rocambolesco",
+    "classe": "adjetivo",
+    "definicao": "extravagante, cheio de reviravoltas",
+    "exemplo": "A história tinha um enredo rocambolesco.",
+    "frances": "rocambolesque",
+    "ingles": "rambling"
+  },
+  {
+    "id": 193,
+    "palavra": "rudimentar",
+    "classe": "adjetivo",
+    "definicao": "básico, primitivo, incompleto",
+    "exemplo": "O equipamento era rudimentar, mas funcional.",
+    "frances": "rudimentaire",
+    "ingles": "rudimentary"
+  },
+  {
+    "id": 194,
+    "palavra": "sagaz",
+    "classe": "adjetivo",
+    "definicao": "perspicaz, astuto",
+    "exemplo": "O detetive sagaz percebeu o detalhe que todos ignoraram.",
+    "frances": "sagace",
+    "ingles": "shrewd"
+  },
+  {
+    "id": 195,
+    "palavra": "saudoso",
+    "classe": "adjetivo",
+    "definicao": "que sente ou provoca saudade",
+    "exemplo": "Voltou saudoso à cidade onde cresceu.",
+    "frances": "nostalgique",
+    "ingles": "longing"
+  },
+  {
+    "id": 196,
+    "palavra": "sazonado",
+    "classe": "adjetivo",
+    "definicao": "maduro, temperado pelo tempo",
+    "exemplo": "O queijo sazonado tinha sabor mais intenso.",
+    "frances": "affiné",
+    "ingles": "seasoned"
+  },
+  {
+    "id": 197,
+    "palavra": "sibilino",
+    "classe": "adjetivo",
+    "definicao": "obscuro, enigmático como um oráculo",
+    "exemplo": "Deu uma resposta sibilina, difícil de interpretar.",
+    "frances": "sibyllin",
+    "ingles": "sibylline"
+  },
+  {
+    "id": 198,
+    "palavra": "sinuoso",
+    "classe": "adjetivo",
+    "definicao": "cheio de curvas, tortuoso",
+    "exemplo": "A estrada sinuosa subia lentamente a serra.",
+    "frances": "sinueux",
+    "ingles": "winding"
+  },
+  {
+    "id": 199,
+    "palavra": "solerte",
+    "classe": "adjetivo",
+    "definicao": "hábil, astuto, sagaz",
+    "exemplo": "O golpista solerte enganou vários investidores.",
+    "frances": "rusé",
+    "ingles": "cunning"
+  },
+  {
+    "id": 200,
+    "palavra": "solícito",
+    "classe": "adjetivo",
+    "definicao": "prestativo, atencioso",
+    "exemplo": "O atendente foi solícito ao ajudar a cliente.",
+    "frances": "empressé",
+    "ingles": "solicitous"
+  },
+  {
+    "id": 201,
+    "palavra": "sórdido",
+    "classe": "adjetivo",
+    "definicao": "imundo, moralmente repugnante",
+    "exemplo": "Descobriram os detalhes sórdidos do esquema.",
+    "frances": "sordide",
+    "ingles": "sordid"
+  },
+  {
+    "id": 202,
+    "palavra": "subalterno",
+    "classe": "adjetivo",
+    "definicao": "subordinado, de posição inferior",
+    "exemplo": "O cargo subalterno não refletia sua real capacidade.",
+    "frances": "subalterne",
+    "ingles": "subordinate"
+  },
+  {
+    "id": 203,
+    "palavra": "subjugar",
+    "classe": "verbo",
+    "definicao": "dominar, submeter pela força",
+    "exemplo": "O império subjugou vários povos vizinhos.",
+    "frances": "subjuguer",
+    "ingles": "to subjugate"
+  },
+  {
+    "id": 204,
+    "palavra": "sub-reptício",
+    "classe": "adjetivo",
+    "definicao": "feito às escondidas, furtivo",
+    "exemplo": "Fez uma cópia sub-reptícia dos documentos.",
+    "frances": "subreptice",
+    "ingles": "surreptitious"
+  },
+  {
+    "id": 205,
+    "palavra": "suplantar",
+    "classe": "verbo",
+    "definicao": "superar, substituir com vantagem",
+    "exemplo": "A nova tecnologia suplantou a anterior rapidamente.",
+    "frances": "supplanter",
+    "ingles": "to supplant"
+  },
+  {
+    "id": 206,
+    "palavra": "sutil",
+    "classe": "adjetivo",
+    "definicao": "delicado, difícil de perceber",
+    "exemplo": "Havia uma diferença sutil entre as duas versões.",
+    "frances": "subtil",
+    "ingles": "subtle"
+  },
+  {
+    "id": 207,
+    "palavra": "taciturno",
+    "classe": "adjetivo",
+    "definicao": "calado, de poucas palavras, melancólico",
+    "exemplo": "O vizinho taciturno raramente cumprimentava alguém.",
+    "frances": "taciturne",
+    "ingles": "taciturn"
+  },
+  {
+    "id": 208,
+    "palavra": "tangível",
+    "classe": "adjetivo",
+    "definicao": "palpável, que pode ser tocado ou comprovado",
+    "exemplo": "Precisavam de resultados tangíveis até o fim do mês.",
+    "frances": "tangible",
+    "ingles": "tangible"
+  },
+  {
+    "id": 209,
+    "palavra": "temerário",
+    "classe": "adjetivo",
+    "definicao": "imprudente, arriscado demais",
+    "exemplo": "Foi uma decisão temerária investir tudo naquele negócio.",
+    "frances": "téméraire",
+    "ingles": "reckless"
+  },
+  {
+    "id": 210,
+    "palavra": "tênue",
+    "classe": "adjetivo",
+    "definicao": "fraco, sutil, delicado",
+    "exemplo": "Uma luz tênue entrava pela janela.",
+    "frances": "ténu",
+    "ingles": "faint"
+  },
+  {
+    "id": 211,
+    "palavra": "tergiversar",
+    "classe": "verbo",
+    "definicao": "evitar responder diretamente, usar de rodeios",
+    "exemplo": "O político tergiversou em vez de responder à pergunta.",
+    "frances": "tergiverser",
+    "ingles": "to prevaricate"
+  },
+  {
+    "id": 212,
+    "palavra": "torpe",
+    "classe": "adjetivo",
+    "definicao": "imoral, vergonhoso, indecente",
+    "exemplo": "O ato torpe manchou sua reputação.",
+    "frances": "ignoble",
+    "ingles": "vile"
+  },
+  {
+    "id": 213,
+    "palavra": "transigir",
+    "classe": "verbo",
+    "definicao": "ceder, fazer concessões",
+    "exemplo": "Não estava disposto a transigir em princípios básicos.",
+    "frances": "transiger",
+    "ingles": "to compromise"
+  },
+  {
+    "id": 214,
+    "palavra": "trivial",
+    "classe": "adjetivo",
+    "definicao": "comum, sem importância especial",
+    "exemplo": "Era um assunto trivial, sem grandes consequências.",
+    "frances": "trivial",
+    "ingles": "trivial"
+  },
+  {
+    "id": 215,
+    "palavra": "tumultuário",
+    "classe": "adjetivo",
+    "definicao": "desordenado, confuso, feito às pressas",
+    "exemplo": "O processo eleitoral foi tumultuário naquele ano.",
+    "frances": "désordonné",
+    "ingles": "disorderly"
+  },
+  {
+    "id": 216,
+    "palavra": "umbroso",
+    "classe": "adjetivo",
+    "definicao": "sombreado, coberto de sombra",
+    "exemplo": "Descansaram sob a árvore umbrosa.",
+    "frances": "ombragé",
+    "ingles": "shady"
+  },
+  {
+    "id": 217,
+    "palavra": "uníssono",
+    "classe": "adjetivo",
+    "definicao": "em perfeita concordância, em uma só voz",
+    "exemplo": "Todos responderam em uníssono à pergunta.",
+    "frances": "unisson",
+    "ingles": "unison"
+  },
+  {
+    "id": 218,
+    "palavra": "usurpar",
+    "classe": "verbo",
+    "definicao": "apropriar-se ilegitimamente de algo",
+    "exemplo": "O ministro foi acusado de usurpar poderes.",
+    "frances": "usurper",
+    "ingles": "to usurp"
+  },
+  {
+    "id": 219,
+    "palavra": "vacilante",
+    "classe": "adjetivo",
+    "definicao": "hesitante, instável",
+    "exemplo": "Deu uma resposta vacilante, cheia de dúvidas.",
+    "frances": "hésitant",
+    "ingles": "wavering"
+  },
+  {
+    "id": 220,
+    "palavra": "veemente",
+    "classe": "adjetivo",
+    "definicao": "intenso, enérgico, apaixonado",
+    "exemplo": "Fez um discurso veemente contra a corrupção.",
+    "frances": "véhément",
+    "ingles": "vehement"
+  },
+  {
+    "id": 221,
+    "palavra": "venal",
+    "classe": "adjetivo",
+    "definicao": "corruptível, que se deixa subornar",
+    "exemplo": "O funcionário venal aceitava propina facilmente.",
+    "frances": "vénal",
+    "ingles": "venal"
+  },
+  {
+    "id": 222,
+    "palavra": "verossímil",
+    "classe": "adjetivo",
+    "definicao": "que parece verdadeiro, plausível",
+    "exemplo": "A explicação era verossímil, embora não comprovada.",
+    "frances": "vraisemblable",
+    "ingles": "plausible"
+  },
+  {
+    "id": 223,
+    "palavra": "vetusto",
+    "classe": "adjetivo",
+    "definicao": "muito antigo, envelhecido",
+    "exemplo": "O castelo vetusto dominava a paisagem.",
+    "frances": "vétuste",
+    "ingles": "ancient"
+  },
+  {
+    "id": 224,
+    "palavra": "vicejar",
+    "classe": "verbo",
+    "definicao": "florescer, crescer com vigor",
+    "exemplo": "As plantas vicejavam sob os cuidados constantes.",
+    "frances": "prospérer",
+    "ingles": "to flourish"
+  },
+  {
+    "id": 225,
+    "palavra": "vil",
+    "classe": "adjetivo",
+    "definicao": "desprezível, baixo moralmente",
+    "exemplo": "Cometeu um ato vil contra o próprio irmão.",
+    "frances": "vil",
+    "ingles": "vile"
+  },
+  {
+    "id": 226,
+    "palavra": "vislumbrar",
+    "classe": "verbo",
+    "definicao": "perceber de relance, entrever",
+    "exemplo": "Conseguiu vislumbrar uma solução para o impasse.",
+    "frances": "entrevoir",
+    "ingles": "to glimpse"
+  },
+  {
+    "id": 227,
+    "palavra": "volúvel",
+    "classe": "adjetivo",
+    "definicao": "instável, inconstante, que muda de opinião",
+    "exemplo": "O humor volúvel dele confundia todos ao redor.",
+    "frances": "volage",
+    "ingles": "fickle"
+  },
+  {
+    "id": 228,
+    "palavra": "zeloso",
+    "classe": "adjetivo",
+    "definicao": "cuidadoso, dedicado, atento",
+    "exemplo": "Era zeloso no cuidado com os documentos da empresa.",
+    "frances": "zélé",
+    "ingles": "zealous"
+  },
+  {
+    "id": 229,
+    "palavra": "abjeto",
+    "classe": "adjetivo",
+    "definicao": "desprezível, degradante",
+    "exemplo": "Viviam em condições abjetas de pobreza.",
+    "frances": "abject",
+    "ingles": "abject"
+  },
+  {
+    "id": 230,
+    "palavra": "acinte",
+    "classe": "substantivo",
+    "definicao": "provocação deliberada, afronta",
+    "exemplo": "Fez aquilo de acinte, só para irritá-lo.",
+    "frances": "provocation",
+    "ingles": "spite"
+  },
+  {
+    "id": 231,
+    "palavra": "aviso-prévio",
+    "classe": "substantivo",
+    "definicao": "comunicação antecipada obrigatória",
+    "exemplo": "Recebeu o aviso-prévio um mês antes da demissão.",
+    "frances": "préavis",
+    "ingles": "notice"
+  },
+  {
+    "id": 232,
+    "palavra": "boato",
+    "classe": "substantivo",
+    "definicao": "notícia não confirmada, rumor",
+    "exemplo": "O boato se espalhou antes de qualquer confirmação oficial.",
+    "frances": "rumeur",
+    "ingles": "rumor"
+  },
+  {
+    "id": 233,
+    "palavra": "bramir",
+    "classe": "verbo",
+    "definicao": "emitir som forte e grave; rugir",
+    "exemplo": "O vento bramia entre as montanhas.",
+    "frances": "mugir",
+    "ingles": "to roar"
+  },
+  {
+    "id": 234,
+    "palavra": "cabisbaixo",
+    "classe": "adjetivo",
+    "definicao": "triste, com a cabeça baixa",
+    "exemplo": "Saiu cabisbaixo depois de perder o emprego.",
+    "frances": "tête baissée",
+    "ingles": "downcast"
+  },
+  {
+    "id": 235,
+    "palavra": "cognição",
+    "classe": "substantivo",
+    "definicao": "processo de adquirir conhecimento",
+    "exemplo": "A pesquisa estudava os mecanismos da cognição humana.",
+    "frances": "cognition",
+    "ingles": "cognition"
+  },
+  {
+    "id": 236,
+    "palavra": "desalinho",
+    "classe": "substantivo",
+    "definicao": "desordem, falta de organização",
+    "exemplo": "O quarto estava em completo desalinho.",
+    "frances": "désordre",
+    "ingles": "untidiness"
+  },
+  {
+    "id": 237,
+    "palavra": "desígnio",
+    "classe": "substantivo",
+    "definicao": "intenção, plano, propósito",
+    "exemplo": "Seguia um desígnio secreto que ninguém conhecia.",
+    "frances": "dessein",
+    "ingles": "design"
+  },
+  {
+    "id": 238,
+    "palavra": "dessarte",
+    "classe": "advérbio",
+    "definicao": "desse modo, assim",
+    "exemplo": "Dessarte, o acordo foi finalmente selado.",
+    "frances": "ainsi",
+    "ingles": "thus"
+  },
+  {
+    "id": 239,
+    "palavra": "efabular",
+    "classe": "verbo",
+    "definicao": "narrar de forma imaginativa, inventar histórias",
+    "exemplo": "O escritor efabulava sobre mundos distantes.",
+    "frances": "fabuler",
+    "ingles": "to fabulate"
+  },
+  {
+    "id": 240,
+    "palavra": "engendrar",
+    "classe": "verbo",
+    "definicao": "criar, produzir, gerar (ideia, plano)",
+    "exemplo": "O grupo engendrou um plano audacioso de fuga.",
+    "frances": "engendrer",
+    "ingles": "to engender"
+  },
+  {
+    "id": 241,
+    "palavra": "estar às turras",
+    "classe": "expressão",
+    "definicao": "estar em conflito constante com alguém",
+    "exemplo": "Os dois sócios andavam às turras havia meses.",
+    "frances": "être en conflit",
+    "ingles": "to be at odds"
+  },
+  {
+    "id": 242,
+    "palavra": "fulgor",
+    "classe": "substantivo",
+    "definicao": "brilho intenso, resplendor",
+    "exemplo": "O fulgor do sol refletia no mar.",
+    "frances": "éclat",
+    "ingles": "glow"
+  },
+  {
+    "id": 243,
+    "palavra": "garboso",
+    "classe": "adjetivo",
+    "definicao": "elegante, de porte distinto",
+    "exemplo": "Desfilava garboso em seu uniforme novo.",
+    "frances": "fringant",
+    "ingles": "dashing"
+  },
+  {
+    "id": 244,
+    "palavra": "hausto",
+    "classe": "substantivo",
+    "definicao": "gole, sorvo profundo",
+    "exemplo": "Bebeu a água em um único hausto.",
+    "frances": "gorgée",
+    "ingles": "draught"
+  },
+  {
+    "id": 245,
+    "palavra": "ledo",
+    "classe": "adjetivo",
+    "definicao": "alegre, contente (arcaico/literário)",
+    "exemplo": "Partiu ledo rumo à nova vida.",
+    "frances": "joyeux",
+    "ingles": "joyful"
+  },
+  {
+    "id": 246,
+    "palavra": "mácula",
+    "classe": "substantivo",
+    "definicao": "mancha, defeito moral",
+    "exemplo": "Nenhuma mácula manchava sua conduta profissional.",
+    "frances": "tache",
+    "ingles": "blemish"
+  },
+  {
+    "id": 247,
+    "palavra": "nímio",
+    "classe": "adjetivo",
+    "definicao": "excessivo, exagerado",
+    "exemplo": "Tinha um cuidado nímio com os detalhes.",
+    "frances": "excessif",
+    "ingles": "excessive"
+  },
+  {
+    "id": 248,
+    "palavra": "olho de lince",
+    "classe": "expressão",
+    "definicao": "visão muito aguçada, atenção a detalhes",
+    "exemplo": "Ela tem olho de lince para encontrar erros no texto.",
+    "frances": "œil de lynx",
+    "ingles": "eagle eye"
+  },
+  {
+    "id": 249,
+    "palavra": "pasmo",
+    "classe": "substantivo",
+    "definicao": "espanto, grande surpresa",
+    "exemplo": "Ficou em pasmo diante da revelação.",
+    "frances": "stupeur",
+    "ingles": "astonishment"
+  },
+  {
+    "id": 250,
+    "palavra": "prosápia",
+    "classe": "substantivo",
+    "definicao": "arrogância, orgulho de linhagem ou posição",
+    "exemplo": "Falava com prosápia sobre seus feitos passados.",
+    "frances": "arrogance",
+    "ingles": "haughtiness"
+  },
+  {
+    "id": 251,
+    "palavra": "quedar-se",
+    "classe": "verbo",
+    "definicao": "permanecer, ficar parado",
+    "exemplo": "Quedou-se em silêncio diante da notícia.",
+    "frances": "rester",
+    "ingles": "to remain"
+  },
+  {
+    "id": 252,
+    "palavra": "regougar",
+    "classe": "verbo",
+    "definicao": "resmungar, protestar em voz baixa",
+    "exemplo": "O velho regougava contra as mudanças do bairro.",
+    "frances": "grommeler",
+    "ingles": "to grumble"
+  },
+  {
+    "id": 253,
+    "palavra": "sofreguidão",
+    "classe": "substantivo",
+    "definicao": "ânsia, impaciência, avidez",
+    "exemplo": "Comeu com sofreguidão depois do longo jejum.",
+    "frances": "avidité",
+    "ingles": "eagerness"
+  },
+  {
+    "id": 254,
+    "palavra": "tresnoitar",
+    "classe": "verbo",
+    "definicao": "passar a noite em claro",
+    "exemplo": "Tresnoitou estudando para a prova final.",
+    "frances": "veiller",
+    "ingles": "to stay up all night"
+  },
+  {
+    "id": 255,
+    "palavra": "ufano",
+    "classe": "adjetivo",
+    "definicao": "orgulhoso, satisfeito consigo mesmo",
+    "exemplo": "Estava ufano com a conquista do filho.",
+    "frances": "fier",
+    "ingles": "proud"
+  },
+  {
+    "id": 256,
+    "palavra": "xifópago",
+    "classe": "adjetivo",
+    "definicao": "unido pelo tórax (gêmeos); figurado: inseparável",
+    "exemplo": "Os dois amigos eram como xifópagos, sempre juntos.",
+    "frances": "xiphopage",
+    "ingles": "conjoined"
+  },
+  {
+    "id": 257,
+    "palavra": "zângão",
+    "classe": "substantivo",
+    "definicao": "pessoa preguiçosa que vive à custa de outros",
+    "exemplo": "Era visto como um zângão dentro da própria família.",
+    "frances": "fainéant",
+    "ingles": "drone"
+  },
+  {
+    "id": 258,
+    "palavra": "abastardar",
+    "classe": "verbo",
+    "definicao": "corromper, degenerar a qualidade de algo",
+    "exemplo": "O excesso de comércio abastardou a tradição local.",
+    "frances": "abâtardir",
+    "ingles": "to debase"
+  },
+  {
+    "id": 259,
+    "palavra": "acérrimo",
+    "classe": "adjetivo",
+    "definicao": "muito forte, intenso, ferrenho",
+    "exemplo": "Era um acérrimo defensor da liberdade de expressão.",
+    "frances": "acharné",
+    "ingles": "staunch"
+  },
+  {
+    "id": 260,
+    "palavra": "adamantino",
+    "classe": "adjetivo",
+    "definicao": "duro como diamante; inflexível",
+    "exemplo": "Mantinha uma postura adamantina diante das pressões.",
+    "frances": "adamantin",
+    "ingles": "adamantine"
+  },
+  {
+    "id": 261,
+    "palavra": "adejar",
+    "classe": "verbo",
+    "definicao": "voar batendo as asas suavemente; pairar",
+    "exemplo": "As borboletas adejavam sobre o jardim.",
+    "frances": "voleter",
+    "ingles": "to flutter"
+  },
+  {
+    "id": 262,
+    "palavra": "aduladores",
+    "classe": "substantivo",
+    "definicao": "pessoas que bajulam excessivamente",
+    "exemplo": "O rei estava cercado de aduladores.",
+    "frances": "flatteurs",
+    "ingles": "flatterers"
+  },
+  {
+    "id": 263,
+    "palavra": "aerar",
+    "classe": "verbo",
+    "definicao": "arejar, expor ao ar",
+    "exemplo": "É preciso aerar o vinho antes de servir.",
+    "frances": "aérer",
+    "ingles": "to aerate"
+  },
+  {
+    "id": 264,
+    "palavra": "aflitivo",
+    "classe": "adjetivo",
+    "definicao": "que causa aflição, angustiante",
+    "exemplo": "Viveu momentos aflitivos durante a cirurgia do filho.",
+    "frances": "angoissant",
+    "ingles": "distressing"
+  },
+  {
+    "id": 265,
+    "palavra": "agônico",
+    "classe": "adjetivo",
+    "definicao": "relativo à agonia; em fase final",
+    "exemplo": "A empresa vivia seus dias agônicos antes da falência.",
+    "frances": "agonique",
+    "ingles": "agonizing"
+  },
+  {
+    "id": 266,
+    "palavra": "albor",
+    "classe": "substantivo",
+    "definicao": "claridade, alvura, começo (do dia)",
+    "exemplo": "Partiram ao albor da manhã.",
+    "frances": "aube",
+    "ingles": "dawn's light"
+  },
+  {
+    "id": 267,
+    "palavra": "alfobre",
+    "classe": "substantivo",
+    "definicao": "viveiro de mudas; lugar onde algo se desenvolve",
+    "exemplo": "A escola era um alfobre de novos talentos.",
+    "frances": "pépinière",
+    "ingles": "nursery"
+  },
+  {
+    "id": 268,
+    "palavra": "alígero",
+    "classe": "adjetivo",
+    "definicao": "que tem asas; veloz",
+    "exemplo": "O poema descrevia um alígero mensageiro dos deuses.",
+    "frances": "ailé",
+    "ingles": "winged"
+  },
+  {
+    "id": 269,
+    "palavra": "almo",
+    "classe": "adjetivo",
+    "definicao": "nutridor, generoso, benfazejo (literário)",
+    "exemplo": "Cantava a terra almo que os alimentava.",
+    "frances": "nourricier",
+    "ingles": "nurturing"
+  },
+  {
+    "id": 270,
+    "palavra": "amálgama",
+    "classe": "substantivo",
+    "definicao": "mistura, combinação de elementos diversos",
+    "exemplo": "A cultura local era um amálgama de tradições indígenas e europeias.",
+    "frances": "amalgame",
+    "ingles": "amalgam"
+  },
+  {
+    "id": 271,
+    "palavra": "ambages",
+    "classe": "substantivo",
+    "definicao": "rodeios, evasivas no falar",
+    "exemplo": "Respondeu sem ambages, direto ao ponto.",
+    "frances": "détours",
+    "ingles": "circumlocution"
+  },
+  {
+    "id": 272,
+    "palavra": "anelar",
+    "classe": "verbo",
+    "definicao": "desejar ardentemente",
+    "exemplo": "Anelava por um pouco de paz depois do caos.",
+    "frances": "aspirer",
+    "ingles": "to yearn"
+  },
+  {
+    "id": 273,
+    "palavra": "anfractuoso",
+    "classe": "adjetivo",
+    "definicao": "cheio de reentrâncias e curvas irregulares",
+    "exemplo": "O caminho anfractuoso dificultava a subida.",
+    "frances": "anfractueux",
+    "ingles": "craggy"
+  },
+  {
+    "id": 274,
+    "palavra": "antemão (de)",
+    "classe": "expressão",
+    "definicao": "antecipadamente, com antecedência",
+    "exemplo": "Avisou de antemão que não poderia comparecer.",
+    "frances": "à l'avance",
+    "ingles": "beforehand"
+  },
+  {
+    "id": 275,
+    "palavra": "aquém",
+    "classe": "advérbio",
+    "definicao": "mais perto, do lado de cá; abaixo de",
+    "exemplo": "O resultado ficou aquém do esperado.",
+    "frances": "en deçà",
+    "ingles": "short of"
+  },
+  {
+    "id": 276,
+    "palavra": "arfar",
+    "classe": "verbo",
+    "definicao": "respirar com dificuldade, ofegar",
+    "exemplo": "Chegou arfando após a corrida.",
+    "frances": "haleter",
+    "ingles": "to pant"
+  },
+  {
+    "id": 277,
+    "palavra": "arisco",
+    "classe": "adjetivo",
+    "definicao": "desconfiado, pouco sociável",
+    "exemplo": "O gato arisco fugia de estranhos.",
+    "frances": "farouche",
+    "ingles": "standoffish"
+  },
+  {
+    "id": 278,
+    "palavra": "assaz",
+    "classe": "advérbio",
+    "definicao": "bastante, suficientemente",
+    "exemplo": "Estava assaz cansado para continuar a viagem.",
+    "frances": "assez",
+    "ingles": "quite"
+  },
+  {
+    "id": 279,
+    "palavra": "átrio",
+    "classe": "substantivo",
+    "definicao": "entrada, vestíbulo amplo",
+    "exemplo": "Os visitantes se reuniram no átrio do museu.",
+    "frances": "atrium",
+    "ingles": "atrium"
+  },
+  {
+    "id": 280,
+    "palavra": "augusto",
+    "classe": "adjetivo",
+    "definicao": "majestoso, venerável, solene",
+    "exemplo": "O augusto edifício impunha respeito a todos.",
+    "frances": "auguste",
+    "ingles": "august"
+  },
+  {
+    "id": 281,
+    "palavra": "aureolar",
+    "classe": "verbo",
+    "definicao": "cercar de auréola, glorificar",
+    "exemplo": "A vitória aureolou o nome do atleta.",
+    "frances": "auréoler",
+    "ingles": "to halo"
+  },
+  {
+    "id": 282,
+    "palavra": "austero",
+    "classe": "adjetivo",
+    "definicao": "rigoroso, sóbrio, sem luxo",
+    "exemplo": "Levava uma vida austera, longe dos excessos.",
+    "frances": "austère",
+    "ingles": "austere"
+  },
+  {
+    "id": 283,
+    "palavra": "azucrinar",
+    "classe": "verbo",
+    "definicao": "importunar, incomodar insistentemente",
+    "exemplo": "As crianças azucrinavam o pai com perguntas.",
+    "frances": "importuner",
+    "ingles": "to pester"
+  },
+  {
+    "id": 284,
+    "palavra": "bafejar",
+    "classe": "verbo",
+    "definicao": "favorecer, soprar suavemente sobre",
+    "exemplo": "A sorte finalmente bafejou o time naquela final.",
+    "frances": "favoriser",
+    "ingles": "to favor"
+  },
+  {
+    "id": 285,
+    "palavra": "baforada",
+    "classe": "substantivo",
+    "definicao": "sopro forte de ar, fumaça ou cheiro",
+    "exemplo": "Uma baforada de fumaça saiu da chaminé.",
+    "frances": "bouffée",
+    "ingles": "puff"
+  },
+  {
+    "id": 286,
+    "palavra": "bafo",
+    "classe": "substantivo",
+    "definicao": "hálito; sopro quente",
+    "exemplo": "Sentiu o bafo quente do animal por perto.",
+    "frances": "souffle",
+    "ingles": "breath"
+  },
+  {
+    "id": 287,
+    "palavra": "balbúrdia",
+    "classe": "substantivo",
+    "definicao": "confusão, tumulto, desordem",
+    "exemplo": "A sala virou uma balbúrdia quando o professor saiu.",
+    "frances": "chahut",
+    "ingles": "hubbub"
+  },
+  {
+    "id": 288,
+    "palavra": "bandear-se",
+    "classe": "verbo",
+    "definicao": "mudar de partido ou lado",
+    "exemplo": "O deputado se bandeou para a oposição.",
+    "frances": "changer de camp",
+    "ingles": "to switch sides"
+  },
+  {
+    "id": 289,
+    "palavra": "baralhar",
+    "classe": "verbo",
+    "definicao": "misturar, confundir a ordem de",
+    "exemplo": "Os documentos ficaram baralhados na mudança.",
+    "frances": "mélanger",
+    "ingles": "to shuffle"
+  },
+  {
+    "id": 290,
+    "palavra": "basofia",
+    "classe": "substantivo",
+    "definicao": "vaidade, ostentação, presunção",
+    "exemplo": "Falava de suas conquistas com basofia.",
+    "frances": "vantardise",
+    "ingles": "boastfulness"
+  },
+  {
+    "id": 291,
+    "palavra": "bater às portas",
+    "classe": "expressão",
+    "definicao": "estar prestes a chegar (evento, época)",
+    "exemplo": "O inverno já batia às portas.",
+    "frances": "être proche",
+    "ingles": "to be around the corner"
+  },
+  {
+    "id": 292,
+    "palavra": "beligerante",
+    "classe": "adjetivo",
+    "definicao": "que está em guerra ou conflito",
+    "exemplo": "Os países beligerantes finalmente aceitaram negociar.",
+    "frances": "belligérant",
+    "ingles": "belligerent"
+  },
+  {
+    "id": 293,
+    "palavra": "bem-aventurado",
+    "classe": "adjetivo",
+    "definicao": "feliz, abençoado",
+    "exemplo": "Sentiu-se bem-aventurado por ter uma família unida.",
+    "frances": "bienheureux",
+    "ingles": "blessed"
+  },
+  {
+    "id": 294,
+    "palavra": "benfazejo",
+    "classe": "adjetivo",
+    "definicao": "que faz o bem, benéfico",
+    "exemplo": "A chuva benfazeja salvou a plantação.",
+    "frances": "bienfaisant",
+    "ingles": "beneficial"
+  },
+  {
+    "id": 295,
+    "palavra": "bocejante",
+    "classe": "adjetivo",
+    "definicao": "que boceja; tedioso a ponto de causar sono",
+    "exemplo": "A reunião bocejante se arrastou por horas.",
+    "frances": "ennuyeux",
+    "ingles": "yawn-inducing"
+  },
+  {
+    "id": 296,
+    "palavra": "bofetada",
+    "classe": "substantivo",
+    "definicao": "tapa no rosto; figurado: choque, afronta",
+    "exemplo": "A notícia foi como uma bofetada inesperada.",
+    "frances": "gifle",
+    "ingles": "slap"
+  },
+  {
+    "id": 297,
+    "palavra": "borrasca",
+    "classe": "substantivo",
+    "definicao": "tempestade forte, temporal",
+    "exemplo": "O navio enfrentou uma borrasca no meio do oceano.",
+    "frances": "tempête",
+    "ingles": "storm"
+  },
+  {
+    "id": 298,
+    "palavra": "bravata",
+    "classe": "substantivo",
+    "definicao": "fanfarronice, alarde exagerado",
+    "exemplo": "As ameaças não passavam de bravata.",
+    "frances": "bravade",
+    "ingles": "bravado"
+  },
+  {
+    "id": 299,
+    "palavra": "brenha",
+    "classe": "substantivo",
+    "definicao": "mato fechado, terreno difícil de atravessar",
+    "exemplo": "Perderam-se na brenha densa da floresta.",
+    "frances": "fourré",
+    "ingles": "thicket"
+  },
+  {
+    "id": 300,
+    "palavra": "bruma",
+    "classe": "substantivo",
+    "definicao": "névoa espessa",
+    "exemplo": "A bruma matinal cobria todo o vale.",
+    "frances": "brume",
+    "ingles": "mist"
+  },
+  {
+    "id": 301,
+    "palavra": "cabreiro",
+    "classe": "adjetivo",
+    "definicao": "desconfiado, alerta (coloquial)",
+    "exemplo": "Ficou cabreiro com a proposta suspeita.",
+    "frances": "méfiant",
+    "ingles": "wary"
+  },
+  {
+    "id": 302,
+    "palavra": "cachopo",
+    "classe": "substantivo",
+    "definicao": "criança, rapaz jovem (regional/literário)",
+    "exemplo": "O cachopo corria alegre pelos campos.",
+    "frances": "gamin",
+    "ingles": "lad"
+  },
+  {
+    "id": 303,
+    "palavra": "cadente",
+    "classe": "adjetivo",
+    "definicao": "que cai; declinante",
+    "exemplo": "Observaram uma estrela cadente no céu escuro.",
+    "frances": "filant",
+    "ingles": "falling"
+  },
+  {
+    "id": 304,
+    "palavra": "caduco",
+    "classe": "adjetivo",
+    "definicao": "ultrapassado, decadente, que perde validade",
+    "exemplo": "As regras antigas tornaram-se caducas.",
+    "frances": "caduc",
+    "ingles": "obsolete"
+  },
+  {
+    "id": 305,
+    "palavra": "calcanhar de Aquiles",
+    "classe": "expressão",
+    "definicao": "ponto fraco, vulnerabilidade",
+    "exemplo": "A falta de planejamento era o calcanhar de Aquiles do projeto.",
+    "frances": "talon d'Achille",
+    "ingles": "Achilles' heel"
+  },
+  {
+    "id": 306,
+    "palavra": "caleidoscópico",
+    "classe": "adjetivo",
+    "definicao": "que muda constantemente de forma ou cor",
+    "exemplo": "A cidade tinha uma vida cultural caleidoscópica.",
+    "frances": "kaléidoscopique",
+    "ingles": "kaleidoscopic"
+  },
+  {
+    "id": 307,
+    "palavra": "candura",
+    "classe": "substantivo",
+    "definicao": "pureza, ingenuidade",
+    "exemplo": "Falava com a candura de uma criança.",
+    "frances": "candeur",
+    "ingles": "innocence"
+  },
+  {
+    "id": 308,
+    "palavra": "canhestro",
+    "classe": "adjetivo",
+    "definicao": "desajeitado, sem habilidade",
+    "exemplo": "Deu um passo canhestro e quase caiu.",
+    "frances": "maladroit",
+    "ingles": "clumsy"
+  },
+  {
+    "id": 309,
+    "palavra": "cariz",
+    "classe": "substantivo",
+    "definicao": "aspecto, caráter de algo",
+    "exemplo": "O debate tomou um cariz mais político.",
+    "frances": "caractère",
+    "ingles": "nature"
+  },
+  {
+    "id": 310,
+    "palavra": "catadupa",
+    "classe": "substantivo",
+    "definicao": "grande quantidade, torrente",
+    "exemplo": "Recebeu uma catadupa de críticas após o anúncio.",
+    "frances": "déluge",
+    "ingles": "flood"
+  },
+  {
+    "id": 311,
+    "palavra": "cavilar",
+    "classe": "verbo",
+    "definicao": "meditar profundamente, refletir com cuidado",
+    "exemplo": "Passou a noite a cavilar sobre a decisão.",
+    "frances": "méditer",
+    "ingles": "to ponder"
+  },
+  {
+    "id": 312,
+    "palavra": "cerúleo",
+    "classe": "adjetivo",
+    "definicao": "de cor azul-celeste",
+    "exemplo": "O céu cerúleo anunciava um dia perfeito.",
+    "frances": "céruléen",
+    "ingles": "cerulean"
+  },
+  {
+    "id": 313,
+    "palavra": "cicatrizar",
+    "classe": "verbo",
+    "definicao": "fechar uma ferida; superar uma dor",
+    "exemplo": "Com o tempo, a mágoa começou a cicatrizar.",
+    "frances": "cicatriser",
+    "ingles": "to heal"
+  },
+  {
+    "id": 314,
+    "palavra": "cindir",
+    "classe": "verbo",
+    "definicao": "dividir, separar, romper",
+    "exemplo": "O escândalo cindiu o partido em duas facções.",
+    "frances": "scinder",
+    "ingles": "to split"
+  },
+  {
+    "id": 315,
+    "palavra": "circunlóquio",
+    "classe": "substantivo",
+    "definicao": "rodeio de palavras para evitar dizer algo diretamente",
+    "exemplo": "Em vez de responder, usou um longo circunlóquio.",
+    "frances": "circonlocution",
+    "ingles": "circumlocution"
+  },
+  {
+    "id": 316,
+    "palavra": "clangor",
+    "classe": "substantivo",
+    "definicao": "som metálico forte, estrondo",
+    "exemplo": "O clangor dos sinos ecoava pela cidade.",
+    "frances": "fracas métallique",
+    "ingles": "clangor"
+  },
+  {
+    "id": 317,
+    "palavra": "coevo",
+    "classe": "adjetivo",
+    "definicao": "da mesma época, contemporâneo",
+    "exemplo": "Os dois escritores eram coevos, apesar de nunca terem se conhecido.",
+    "frances": "contemporain",
+    "ingles": "coeval"
+  },
+  {
+    "id": 318,
+    "palavra": "compleição",
+    "classe": "substantivo",
+    "definicao": "constituição física de uma pessoa",
+    "exemplo": "Tinha compleição forte, apesar da idade avançada.",
+    "frances": "constitution",
+    "ingles": "build"
+  },
+  {
+    "id": 319,
+    "palavra": "comungar",
+    "classe": "verbo",
+    "definicao": "compartilhar ideias, crenças ou sentimentos",
+    "exemplo": "Os dois comungavam dos mesmos ideais políticos.",
+    "frances": "partager",
+    "ingles": "to share"
+  },
+  {
+    "id": 320,
+    "palavra": "conluio",
+    "classe": "substantivo",
+    "definicao": "acordo secreto para fins ilícitos",
+    "exemplo": "As empresas agiram em conluio para fraudar a licitação.",
+    "frances": "collusion",
+    "ingles": "collusion"
+  },
+  {
+    "id": 321,
+    "palavra": "conspícuo",
+    "classe": "adjetivo",
+    "definicao": "notável, visível, ilustre",
+    "exemplo": "Era um conspícuo membro da academia de letras.",
+    "frances": "éminent",
+    "ingles": "conspicuous"
+  },
+  {
+    "id": 322,
+    "palavra": "consternado",
+    "classe": "adjetivo",
+    "definicao": "profundamente triste, abalado",
+    "exemplo": "Ficou consternado com a notícia da tragédia.",
+    "frances": "consterné",
+    "ingles": "dismayed"
+  },
+  {
+    "id": 323,
+    "palavra": "contumácia",
+    "classe": "substantivo",
+    "definicao": "obstinação, teimosia persistente",
+    "exemplo": "Sua contumácia em negar as evidências surpreendeu todos.",
+    "frances": "entêtement",
+    "ingles": "stubbornness"
+  },
+  {
+    "id": 324,
+    "palavra": "convulsionar",
+    "classe": "verbo",
+    "definicao": "agitar violentamente, provocar transtorno",
+    "exemplo": "O escândalo convulsionou a política nacional.",
+    "frances": "bouleverser",
+    "ingles": "to convulse"
+  },
+  {
+    "id": 325,
+    "palavra": "corriqueiro",
+    "classe": "adjetivo",
+    "definicao": "comum, do dia a dia, sem importância",
+    "exemplo": "Era um problema corriqueiro, fácil de resolver.",
+    "frances": "banal",
+    "ingles": "routine"
+  },
+  {
+    "id": 326,
+    "palavra": "crestar",
+    "classe": "verbo",
+    "definicao": "queimar levemente, tostar (pele, plantas)",
+    "exemplo": "O sol crestou sua pele durante a viagem.",
+    "frances": "brûler légèrement",
+    "ingles": "to scorch"
+  },
+  {
+    "id": 327,
+    "palavra": "crisol",
+    "classe": "substantivo",
+    "definicao": "recipiente para fundir metais; lugar de transformação",
+    "exemplo": "A cidade era um crisol de culturas diferentes.",
+    "frances": "creuset",
+    "ingles": "crucible"
+  },
+  {
+    "id": 328,
+    "palavra": "decalque",
+    "classe": "substantivo",
+    "definicao": "cópia ou reprodução fiel de algo",
+    "exemplo": "O novo modelo era um decalque do anterior.",
+    "frances": "décalque",
+    "ingles": "tracing"
+  },
+  {
+    "id": 329,
+    "palavra": "decantar",
+    "classe": "verbo",
+    "definicao": "elogiar, louvar; separar líquidos por repouso",
+    "exemplo": "Os poetas decantavam as belezas da terra natal.",
+    "frances": "chanter les louanges",
+    "ingles": "to extol"
+  },
+  {
+    "id": 330,
+    "palavra": "deletar-se",
+    "classe": "verbo",
+    "definicao": "(uso informal) apagar-se, desaparecer discretamente",
+    "exemplo": "Preferiu se deletar da conversa antes que piorasse.",
+    "frances": "s'effacer",
+    "ingles": "to fade away"
+  },
+  {
+    "id": 331,
+    "palavra": "demiurgo",
+    "classe": "substantivo",
+    "definicao": "criador, artífice supremo",
+    "exemplo": "O escritor era o demiurgo daquele universo ficcional.",
+    "frances": "démiurge",
+    "ingles": "demiurge"
+  },
+  {
+    "id": 332,
+    "palavra": "desabusado",
+    "classe": "adjetivo",
+    "definicao": "atrevido, sem preconceitos, ousado",
+    "exemplo": "Tinha um jeito desabusado de falar sobre tudo.",
+    "frances": "sans-gêne",
+    "ingles": "brazen"
+  },
+  {
+    "id": 333,
+    "palavra": "descortinar",
+    "classe": "verbo",
+    "definicao": "revelar, desvendar, deixar à vista",
+    "exemplo": "A pesquisa descortinou novos dados sobre o tema.",
+    "frances": "dévoiler",
+    "ingles": "to unveil"
+  },
+  {
+    "id": 334,
+    "palavra": "desiderata",
+    "classe": "substantivo",
+    "definicao": "conjunto de desejos ou reivindicações",
+    "exemplo": "A lista de desiderata do sindicato foi entregue à empresa.",
+    "frances": "revendications",
+    "ingles": "list of demands"
+  },
+  {
+    "id": 335,
+    "palavra": "desopilante",
+    "classe": "adjetivo",
+    "definicao": "muito engraçado, hilariante",
+    "exemplo": "O filme era desopilante do início ao fim.",
+    "frances": "hilarant",
+    "ingles": "hilarious"
+  },
+  {
+    "id": 336,
+    "palavra": "despautério",
+    "classe": "substantivo",
+    "definicao": "absurdo, disparate",
+    "exemplo": "Aquela decisão foi um verdadeiro despautério.",
+    "frances": "absurdité",
+    "ingles": "nonsense"
+  },
+  {
+    "id": 337,
+    "palavra": "desvairado",
+    "classe": "adjetivo",
+    "definicao": "fora de si, alucinado, insensato",
+    "exemplo": "Correu desvairado pelas ruas após a notícia.",
+    "frances": "affolé",
+    "ingles": "frantic"
+  },
+  {
+    "id": 338,
+    "palavra": "diáspora",
+    "classe": "substantivo",
+    "definicao": "dispersão de um povo por diferentes regiões",
+    "exemplo": "A diáspora deixou marcas profundas na cultura local.",
+    "frances": "diaspora",
+    "ingles": "diaspora"
+  },
+  {
+    "id": 339,
+    "palavra": "difano",
+    "classe": "adjetivo",
+    "definicao": "(variante gráfica menos usual de diáfano)",
+    "exemplo": "O véu difano mal escondia o rosto.",
+    "frances": "diaphane",
+    "ingles": "diaphanous"
+  },
+  {
+    "id": 340,
+    "palavra": "digressão",
+    "classe": "substantivo",
+    "definicao": "desvio do assunto principal em um discurso",
+    "exemplo": "O professor fez uma longa digressão histórica.",
+    "frances": "digression",
+    "ingles": "digression"
+  },
+  {
+    "id": 341,
+    "palavra": "dilação",
+    "classe": "substantivo",
+    "definicao": "adiamento, prorrogação de prazo",
+    "exemplo": "O juiz concedeu uma dilação de dez dias.",
+    "frances": "délai",
+    "ingles": "extension"
+  },
+  {
+    "id": 342,
+    "palavra": "diletante",
+    "classe": "substantivo",
+    "definicao": "pessoa que cultiva algo por prazer, sem profissionalismo",
+    "exemplo": "Era apenas um diletante da pintura, sem formação formal.",
+    "frances": "dilettante",
+    "ingles": "dilettante"
+  },
+  {
+    "id": 343,
+    "palavra": "dissídio",
+    "classe": "substantivo",
+    "definicao": "desacordo, conflito trabalhista ou de opinião",
+    "exemplo": "O dissídio entre os sindicatos durou meses.",
+    "frances": "différend",
+    "ingles": "dispute"
+  },
+  {
+    "id": 344,
+    "palavra": "efabulação",
+    "classe": "substantivo",
+    "definicao": "invenção de uma narrativa fantasiosa",
+    "exemplo": "O relato tinha traços de efabulação, não de fato real.",
+    "frances": "invention",
+    "ingles": "fabrication"
+  },
+  {
+    "id": 345,
+    "palavra": "efígie",
+    "classe": "substantivo",
+    "definicao": "representação, imagem de uma pessoa (em moeda, estátua)",
+    "exemplo": "A efígie do imperador aparecia em todas as moedas.",
+    "frances": "effigie",
+    "ingles": "effigy"
+  },
+  {
+    "id": 346,
+    "palavra": "elidido",
+    "classe": "adjetivo",
+    "definicao": "que sofreu elisão, suprimido",
+    "exemplo": "O som elidido não aparece na fala corrente.",
+    "frances": "élidé",
+    "ingles": "elided"
+  },
+  {
+    "id": 347,
+    "palavra": "emaranhado",
+    "classe": "adjetivo",
+    "definicao": "confuso, entrelaçado",
+    "exemplo": "O caso virou um emaranhado jurídico difícil de desatar.",
+    "frances": "enchevêtré",
+    "ingles": "tangled"
+  },
+  {
+    "id": 348,
+    "palavra": "empáfia",
+    "classe": "substantivo",
+    "definicao": "arrogância, presunção",
+    "exemplo": "Falava com empáfia sobre suas próprias qualidades.",
+    "frances": "arrogance",
+    "ingles": "conceit"
+  },
+  {
+    "id": 349,
+    "palavra": "empedrado",
+    "classe": "adjetivo",
+    "definicao": "calçado com pedras; endurecido",
+    "exemplo": "Caminharam pela rua empedrada do centro histórico.",
+    "frances": "pavé",
+    "ingles": "cobbled"
+  },
+  {
+    "id": 350,
+    "palavra": "emular",
+    "classe": "verbo",
+    "definicao": "competir imitando, buscar igualar ou superar",
+    "exemplo": "O jovem atleta emulava seu ídolo desde criança.",
+    "frances": "émuler",
+    "ingles": "to emulate"
+  },
+  {
+    "id": 351,
+    "palavra": "encalço (no)",
+    "classe": "expressão",
+    "definicao": "em perseguição, atrás de",
+    "exemplo": "A polícia seguia no encalço do suspeito.",
+    "frances": "à la poursuite",
+    "ingles": "in pursuit"
+  },
+  {
+    "id": 352,
+    "palavra": "enfarpelado",
+    "classe": "adjetivo",
+    "definicao": "bem vestido, elegante (coloquial)",
+    "exemplo": "Chegou todo enfarpelado para a entrevista.",
+    "frances": "bien habillé",
+    "ingles": "dressed up"
+  },
+  {
+    "id": 353,
+    "palavra": "engodo",
+    "classe": "substantivo",
+    "definicao": "isca, artifício para enganar",
+    "exemplo": "A promoção era apenas um engodo para atrair clientes.",
+    "frances": "leurre",
+    "ingles": "bait"
+  },
+  {
+    "id": 354,
+    "palavra": "enleio",
+    "classe": "substantivo",
+    "definicao": "confusão, embaraço, situação complicada",
+    "exemplo": "Ficou num enleio ao tentar explicar o atraso.",
+    "frances": "embarras",
+    "ingles": "tangle"
+  },
+  {
+    "id": 355,
+    "palavra": "enodoar",
+    "classe": "verbo",
+    "definicao": "manchar, sujar a reputação",
+    "exemplo": "O escândalo enodoou o nome da instituição.",
+    "frances": "souiller",
+    "ingles": "to sully"
+  },
+  {
+    "id": 356,
+    "palavra": "ensandecer",
+    "classe": "verbo",
+    "definicao": "enlouquecer, perder o juízo",
+    "exemplo": "A pressão do trabalho quase o fez ensandecer.",
+    "frances": "devenir fou",
+    "ingles": "to go mad"
+  },
+  {
+    "id": 357,
+    "palavra": "entrave",
+    "classe": "substantivo",
+    "definicao": "obstáculo, impedimento",
+    "exemplo": "A burocracia era o maior entrave ao projeto.",
+    "frances": "entrave",
+    "ingles": "hindrance"
+  },
+  {
+    "id": 358,
+    "palavra": "epigrafar",
+    "classe": "verbo",
+    "definicao": "inscrever como epígrafe, dedicar por escrito",
+    "exemplo": "Epigrafou o livro com um verso do poeta favorito.",
+    "frances": "épigraphier",
+    "ingles": "to inscribe"
+  },
+  {
+    "id": 359,
+    "palavra": "erudição",
+    "classe": "substantivo",
+    "definicao": "vasto conhecimento adquirido pelo estudo",
+    "exemplo": "Impressionava a todos com sua erudição sobre história antiga.",
+    "frances": "érudition",
+    "ingles": "erudition"
+  },
+  {
+    "id": 360,
+    "palavra": "escol",
+    "classe": "substantivo",
+    "definicao": "o que há de melhor, elite",
+    "exemplo": "Reuniu-se o escol da intelectualidade do país.",
+    "frances": "élite",
+    "ingles": "elite"
+  },
+  {
+    "id": 361,
+    "palavra": "esgrouviado",
+    "classe": "adjetivo",
+    "definicao": "magro e desengonçado",
+    "exemplo": "O rapaz esgrouviado mal cabia na roupa emprestada.",
+    "frances": "dégingandé",
+    "ingles": "gawky"
+  },
+  {
+    "id": 362,
+    "palavra": "esmiuçar",
+    "classe": "verbo",
+    "definicao": "examinar em detalhes, analisar minuciosamente",
+    "exemplo": "O jornalista esmiuçou cada documento do processo.",
+    "frances": "décortiquer",
+    "ingles": "to scrutinize"
+  },
+  {
+    "id": 363,
+    "palavra": "espalhafato",
+    "classe": "substantivo",
+    "definicao": "alarde exagerado, alvoroço",
+    "exemplo": "Fez um espalhafato desnecessário por um problema pequeno.",
+    "frances": "tapage",
+    "ingles": "fuss"
+  },
+  {
+    "id": 364,
+    "palavra": "estultícia",
+    "classe": "substantivo",
+    "definicao": "(variante de estultice) tolice, insensatez",
+    "exemplo": "Foi pura estultícia confiar naquele estranho.",
+    "frances": "sottise",
+    "ingles": "foolishness"
+  },
+  {
+    "id": 365,
+    "palavra": "exangue",
+    "classe": "adjetivo",
+    "definicao": "sem sangue, exausto, sem forças",
+    "exemplo": "Chegou exangue depois da longa maratona.",
+    "frances": "exsangue",
+    "ingles": "drained"
+  },
+  {
+    "id": 366,
+    "palavra": "excogitar",
+    "classe": "verbo",
+    "definicao": "planejar, imaginar com cuidado",
+    "exemplo": "Passou dias a excogitar uma solução para o impasse.",
+    "frances": "imaginer",
+    "ingles": "to devise"
+  },
+  {
+    "id": 367,
+    "palavra": "exímio",
+    "classe": "adjetivo",
+    "definicao": "excelente, extraordinário em sua área",
+    "exemplo": "Era um exímio pianista, reconhecido internacionalmente.",
+    "frances": "éminent",
+    "ingles": "outstanding"
+  },
+  {
+    "id": 368,
+    "palavra": "expedito",
+    "classe": "adjetivo",
+    "definicao": "rápido, ágil, sem demora",
+    "exemplo": "O atendimento foi expedito e eficiente.",
+    "frances": "expéditif",
+    "ingles": "prompt"
+  },
+  {
+    "id": 369,
+    "palavra": "expiar",
+    "classe": "verbo",
+    "definicao": "pagar por uma falta, redimir-se",
+    "exemplo": "Passou anos tentando expiar o erro cometido na juventude.",
+    "frances": "expier",
+    "ingles": "to atone"
+  },
+  {
+    "id": 370,
+    "palavra": "expungir",
+    "classe": "verbo",
+    "definicao": "eliminar, suprimir por completo",
+    "exemplo": "O editor expungiu os trechos considerados ofensivos.",
+    "frances": "expurger",
+    "ingles": "to expunge"
+  },
+  {
+    "id": 371,
+    "palavra": "extemporâneo",
+    "classe": "adjetivo",
+    "definicao": "fora de época, inoportuno",
+    "exemplo": "O comentário extemporâneo gerou constrangimento.",
+    "frances": "intempestif",
+    "ingles": "untimely"
+  },
+  {
+    "id": 372,
+    "palavra": "exuberância",
+    "classe": "substantivo",
+    "definicao": "abundância, fartura, vigor",
+    "exemplo": "A exuberância da vegetação tropical impressionava os turistas.",
+    "frances": "exubérance",
+    "ingles": "exuberance"
+  },
+  {
+    "id": 373,
+    "palavra": "fabulação",
+    "classe": "substantivo",
+    "definicao": "criação de histórias fantasiosas",
+    "exemplo": "A fabulação era parte central do estilo do escritor.",
+    "frances": "fabulation",
+    "ingles": "fabulation"
+  },
+  {
+    "id": 374,
+    "palavra": "facundo",
+    "classe": "adjetivo",
+    "definicao": "eloquente, que fala com facilidade",
+    "exemplo": "O advogado facundo convenceu o júri rapidamente.",
+    "frances": "éloquent",
+    "ingles": "eloquent"
+  },
+  {
+    "id": 375,
+    "palavra": "falacioso",
+    "classe": "adjetivo",
+    "definicao": "enganoso, baseado em falácia",
+    "exemplo": "O argumento era falacioso, apesar de parecer convincente.",
+    "frances": "fallacieux",
+    "ingles": "fallacious"
+  },
+  {
+    "id": 376,
+    "palavra": "faniquito",
+    "classe": "substantivo",
+    "definicao": "desmaio leve, chilique (coloquial)",
+    "exemplo": "Teve um faniquito ao ouvir a notícia inesperada.",
+    "frances": "malaise",
+    "ingles": "fainting fit"
+  },
+  {
+    "id": 377,
+    "palavra": "fasto",
+    "classe": "substantivo",
+    "definicao": "luxo, esplendor, ostentação",
+    "exemplo": "A festa foi celebrada com todo o fasto imaginável.",
+    "frances": "faste",
+    "ingles": "pomp"
+  },
+  {
+    "id": 378,
+    "palavra": "fetichizar",
+    "classe": "verbo",
+    "definicao": "atribuir valor excessivo ou quase mágico a algo",
+    "exemplo": "A propaganda tende a fetichizar produtos de luxo.",
+    "frances": "fétichiser",
+    "ingles": "to fetishize"
+  },
+  {
+    "id": 379,
+    "palavra": "fidedigno",
+    "classe": "adjetivo",
+    "definicao": "confiável, digno de fé",
+    "exemplo": "Precisavam de uma fonte fidedigna para confirmar a informação.",
+    "frances": "fiable",
+    "ingles": "reliable"
+  },
+  {
+    "id": 380,
+    "palavra": "filantropo",
+    "classe": "substantivo",
+    "definicao": "pessoa que pratica caridade e ajuda ao próximo",
+    "exemplo": "O filantropo doou grande parte de sua fortuna a hospitais.",
+    "frances": "philanthrope",
+    "ingles": "philanthropist"
+  },
+  {
+    "id": 381,
+    "palavra": "fisga",
+    "classe": "substantivo",
+    "definicao": "farpa, ponta afiada; figurado: provocação sutil",
+    "exemplo": "A frase tinha uma fisga escondida no elogio.",
+    "frances": "pointe",
+    "ingles": "barb"
+  },
+  {
+    "id": 382,
+    "palavra": "flanar",
+    "classe": "verbo",
+    "definicao": "passear sem destino, vagar despreocupadamente",
+    "exemplo": "Gostava de flanar pelas ruas antigas da cidade.",
+    "frances": "flâner",
+    "ingles": "to stroll"
+  },
+  {
+    "id": 383,
+    "palavra": "fleuma",
+    "classe": "substantivo",
+    "definicao": "calma, indiferença, sangue-frio",
+    "exemplo": "Reagiu com fleuma britânica diante do caos.",
+    "frances": "flegme",
+    "ingles": "phlegm"
+  },
+  {
+    "id": 384,
+    "palavra": "fluir",
+    "classe": "verbo",
+    "definicao": "correr, mover-se continuamente; desenvolver-se com naturalidade",
+    "exemplo": "A conversa fluiu sem qualquer constrangimento.",
+    "frances": "couler",
+    "ingles": "to flow"
+  },
+  {
+    "id": 385,
+    "palavra": "fortuito",
+    "classe": "adjetivo",
+    "definicao": "casual, que acontece por acaso",
+    "exemplo": "O encontro fortuito mudou o rumo de sua vida.",
+    "frances": "fortuit",
+    "ingles": "fortuitous"
+  },
+  {
+    "id": 386,
+    "palavra": "frisson",
+    "classe": "substantivo",
+    "definicao": "arrepio, emoção súbita e intensa",
+    "exemplo": "O gol de última hora causou um frisson na torcida.",
+    "frances": "frisson",
+    "ingles": "thrill"
+  },
+  {
+    "id": 387,
+    "palavra": "fruste",
+    "classe": "adjetivo",
+    "definicao": "rude, grosseiro, sem refinamento",
+    "exemplo": "O personagem tinha um jeito fruste de falar.",
+    "frances": "fruste",
+    "ingles": "rough"
+  },
+  {
+    "id": 388,
+    "palavra": "fulgurante",
+    "classe": "adjetivo",
+    "definicao": "brilhante, deslumbrante, muito rápido",
+    "exemplo": "Teve uma carreira fulgurante no mundo dos negócios.",
+    "frances": "fulgurant",
+    "ingles": "dazzling"
+  },
+  {
+    "id": 389,
+    "palavra": "gáudio",
+    "classe": "substantivo",
+    "definicao": "alegria intensa, contentamento",
+    "exemplo": "Recebeu a notícia com grande gáudio.",
+    "frances": "joie",
+    "ingles": "joy"
+  },
+  {
+    "id": 390,
+    "palavra": "genuflexão",
+    "classe": "substantivo",
+    "definicao": "ato de ajoelhar-se, submissão",
+    "exemplo": "Fez uma genuflexão diante do altar.",
+    "frances": "génuflexion",
+    "ingles": "genuflection"
+  },
+  {
+    "id": 391,
+    "palavra": "gizado",
+    "classe": "adjetivo",
+    "definicao": "planejado, delineado com cuidado",
+    "exemplo": "O projeto foi cuidadosamente gizado antes da execução.",
+    "frances": "conçu",
+    "ingles": "devised"
+  },
+  {
+    "id": 392,
+    "palavra": "granjear",
+    "classe": "verbo",
+    "definicao": "conquistar, obter (simpatia, respeito)",
+    "exemplo": "Granjeou o respeito de todos com seu trabalho honesto.",
+    "frances": "gagner",
+    "ingles": "to earn"
+  },
+  {
+    "id": 393,
+    "palavra": "gravitar",
+    "classe": "verbo",
+    "definicao": "orbitar; figurado: girar em torno de algo",
+    "exemplo": "Todas as decisões pareciam gravitar em torno do lucro.",
+    "frances": "graviter",
+    "ingles": "to gravitate"
+  },
+  {
+    "id": 394,
+    "palavra": "grei",
+    "classe": "substantivo",
+    "definicao": "conjunto de fiéis; grupo, comunidade",
+    "exemplo": "O pastor se dirigiu à sua grei com palavras de conforto.",
+    "frances": "troupeau",
+    "ingles": "flock"
+  },
+  {
+    "id": 395,
+    "palavra": "guarida",
+    "classe": "substantivo",
+    "definicao": "refúgio, abrigo",
+    "exemplo": "Encontraram guarida numa velha cabana durante a tempestade.",
+    "frances": "refuge",
+    "ingles": "shelter"
+  },
+  {
+    "id": 396,
+    "palavra": "hibernar",
+    "classe": "verbo",
+    "definicao": "passar o inverno em estado de repouso; figurado: ficar inativo",
+    "exemplo": "O projeto hibernou por meses antes de ser retomado.",
+    "frances": "hiberner",
+    "ingles": "to hibernate"
+  },
+  {
+    "id": 397,
+    "palavra": "ideário",
+    "classe": "substantivo",
+    "definicao": "conjunto de ideias, princípios de um grupo",
+    "exemplo": "O ideário do movimento defendia a igualdade social.",
+    "frances": "idéologie",
+    "ingles": "ideology"
+  },
+  {
+    "id": 398,
+    "palavra": "idólatra",
+    "classe": "adjetivo",
+    "definicao": "que adora excessivamente, devoto extremo",
+    "exemplo": "Era idólatra do clube desde a infância.",
+    "frances": "idolâtre",
+    "ingles": "idolatrous"
+  },
+  {
+    "id": 399,
+    "palavra": "ignóbil",
+    "classe": "adjetivo",
+    "definicao": "desprezível, indigno",
+    "exemplo": "Cometeu um ato ignóbil contra quem confiava nele.",
+    "frances": "ignoble",
+    "ingles": "ignoble"
+  },
+  {
+    "id": 400,
+    "palavra": "iletrado",
+    "classe": "adjetivo",
+    "definicao": "sem instrução formal, analfabeto",
+    "exemplo": "Apesar de iletrado, tinha grande sabedoria prática.",
+    "frances": "illettré",
+    "ingles": "illiterate"
+  },
+  {
+    "id": 401,
+    "palavra": "ilidir",
+    "classe": "verbo",
+    "definicao": "refutar, invalidar uma alegação",
+    "exemplo": "A nova prova ilidiu a acusação anterior.",
+    "frances": "réfuter",
+    "ingles": "to rebut"
+  },
+  {
+    "id": 402,
+    "palavra": "imantar",
+    "classe": "verbo",
+    "definicao": "magnetizar; atrair fortemente",
+    "exemplo": "O discurso pareceu imantar a atenção da plateia.",
+    "frances": "aimanter",
+    "ingles": "to magnetize"
+  },
+  {
+    "id": 403,
+    "palavra": "imemorial",
+    "classe": "adjetivo",
+    "definicao": "tão antigo que não se sabe a origem",
+    "exemplo": "A tradição vinha de tempos imemoriais.",
+    "frances": "immémorial",
+    "ingles": "immemorial"
+  },
+  {
+    "id": 404,
+    "palavra": "imiscível",
+    "classe": "adjetivo",
+    "definicao": "que não se mistura",
+    "exemplo": "Óleo e água são líquidos imiscíveis.",
+    "frances": "non miscible",
+    "ingles": "immiscible"
+  },
+  {
+    "id": 405,
+    "palavra": "imponderável",
+    "classe": "adjetivo",
+    "definicao": "que não se pode medir ou prever",
+    "exemplo": "Fatores imponderáveis influenciaram o resultado final.",
+    "frances": "impondérable",
+    "ingles": "imponderable"
+  },
+  {
+    "id": 406,
+    "palavra": "improbidade",
+    "classe": "substantivo",
+    "definicao": "desonestidade, falta de integridade",
+    "exemplo": "Foi acusado de improbidade administrativa.",
+    "frances": "malhonnêteté",
+    "ingles": "dishonesty"
+  },
+  {
+    "id": 407,
+    "palavra": "imprecação",
+    "classe": "substantivo",
+    "definicao": "praga rogada contra alguém",
+    "exemplo": "Lançou uma imprecação contra o destino cruel.",
+    "frances": "imprécation",
+    "ingles": "imprecation"
+  },
+  {
+    "id": 408,
+    "palavra": "imprimatura",
+    "classe": "substantivo",
+    "definicao": "aprovação formal, autorização oficial",
+    "exemplo": "O projeto recebeu a imprimatura do conselho diretor.",
+    "frances": "imprimatur",
+    "ingles": "imprimatur"
+  },
+  {
+    "id": 409,
+    "palavra": "improfícuo",
+    "classe": "adjetivo",
+    "definicao": "inútil, sem proveito",
+    "exemplo": "A discussão se mostrou improfícua e cansativa.",
+    "frances": "inutile",
+    "ingles": "fruitless"
+  },
+  {
+    "id": 410,
+    "palavra": "impudico",
+    "classe": "adjetivo",
+    "definicao": "imodesto, sem pudor",
+    "exemplo": "O comentário impudico constrangeu todos na sala.",
+    "frances": "impudique",
+    "ingles": "immodest"
+  },
+  {
+    "id": 411,
+    "palavra": "imutabilidade",
+    "classe": "substantivo",
+    "definicao": "qualidade do que não muda",
+    "exemplo": "Defendia a imutabilidade das leis fundamentais.",
+    "frances": "immutabilité",
+    "ingles": "immutability"
+  },
+  {
+    "id": 412,
+    "palavra": "inadvertido",
+    "classe": "adjetivo",
+    "definicao": "não percebido, feito sem atenção",
+    "exemplo": "Cometeu um erro inadvertido no relatório.",
+    "frances": "inaperçu",
+    "ingles": "inadvertent"
+  },
+  {
+    "id": 413,
+    "palavra": "inalienável",
+    "classe": "adjetivo",
+    "definicao": "que não se pode transferir ou renunciar",
+    "exemplo": "A liberdade é um direito inalienável.",
+    "frances": "inaliénable",
+    "ingles": "inalienable"
+  },
+  {
+    "id": 414,
+    "palavra": "inarredável",
+    "classe": "adjetivo",
+    "definicao": "que não se pode afastar, firme",
+    "exemplo": "Mantinha uma posição inarredável na negociação.",
+    "frances": "inébranlable",
+    "ingles": "unshakeable"
+  },
+  {
+    "id": 415,
+    "palavra": "incauto",
+    "classe": "adjetivo",
+    "definicao": "desprevenido, ingênuo, sem cautela",
+    "exemplo": "O golpista enganou vários incautos investidores.",
+    "frances": "imprudent",
+    "ingles": "unwary"
+  },
+  {
+    "id": 416,
+    "palavra": "incoação",
+    "classe": "substantivo",
+    "definicao": "início de um processo, começo formal",
+    "exemplo": "A incoação do inquérito ocorreu na semana passada.",
+    "frances": "commencement",
+    "ingles": "initiation"
+  },
+  {
+    "id": 417,
+    "palavra": "incongruente",
+    "classe": "adjetivo",
+    "definicao": "incoerente, que não se encaixa logicamente",
+    "exemplo": "A resposta era incongruente com a pergunta feita.",
+    "frances": "incongru",
+    "ingles": "incongruous"
+  },
+  {
+    "id": 418,
+    "palavra": "incrementar",
+    "classe": "verbo",
+    "definicao": "aumentar, desenvolver, ampliar",
+    "exemplo": "A empresa buscou incrementar as vendas no exterior.",
+    "frances": "accroître",
+    "ingles": "to increase"
+  },
+  {
+    "id": 419,
+    "palavra": "incúria",
+    "classe": "substantivo",
+    "definicao": "negligência, falta de cuidado",
+    "exemplo": "A incúria administrativa causou o desabamento do prédio.",
+    "frances": "incurie",
+    "ingles": "negligence"
+  },
+  {
+    "id": 420,
+    "palavra": "indagar",
+    "classe": "verbo",
+    "definicao": "perguntar, investigar, questionar",
+    "exemplo": "O repórter indagou sobre os motivos da demissão.",
+    "frances": "s'enquérir",
+    "ingles": "to inquire"
+  },
+  {
+    "id": 421,
+    "palavra": "indeclinável",
+    "classe": "adjetivo",
+    "definicao": "que não se pode recusar ou adiar",
+    "exemplo": "Tinha um compromisso indeclinável naquela noite.",
+    "frances": "incontournable",
+    "ingles": "unavoidable"
+  },
+  {
+    "id": 422,
+    "palavra": "indelével",
+    "classe": "adjetivo",
+    "definicao": "que não se apaga, permanente",
+    "exemplo": "Deixou uma marca indelével na história da cidade.",
+    "frances": "indélébile",
+    "ingles": "indelible"
+  },
+  {
+    "id": 423,
+    "palavra": "indeliberado",
+    "classe": "adjetivo",
+    "definicao": "feito sem intenção prévia, espontâneo",
+    "exemplo": "O gesto indeliberado revelou seus verdadeiros sentimentos.",
+    "frances": "involontaire",
+    "ingles": "unpremeditated"
+  },
+  {
+    "id": 424,
+    "palavra": "indelicadeza",
+    "classe": "substantivo",
+    "definicao": "falta de gentileza, grosseria",
+    "exemplo": "Cometeu uma indelicadeza ao interromper a fala do colega.",
+    "frances": "indélicatesse",
+    "ingles": "tactlessness"
+  },
+  {
+    "id": 425,
+    "palavra": "indissociável",
+    "classe": "adjetivo",
+    "definicao": "que não se pode separar",
+    "exemplo": "A cultura era indissociável da língua daquele povo.",
+    "frances": "indissociable",
+    "ingles": "inseparable"
+  },
+  {
+    "id": 426,
+    "palavra": "indócil",
+    "classe": "adjetivo",
+    "definicao": "que não se deixa educar ou controlar",
+    "exemplo": "O cavalo indócil resistia a todo tipo de doma.",
+    "frances": "indocile",
+    "ingles": "unruly"
+  },
+  {
+    "id": 427,
+    "palavra": "induvidoso",
+    "classe": "adjetivo",
+    "definicao": "certo, sem dúvida possível",
+    "exemplo": "Era induvidoso que ele merecia o prêmio.",
+    "frances": "indubitable",
+    "ingles": "undoubted"
+  },
+  {
+    "id": 428,
+    "palavra": "inefetivo",
+    "classe": "adjetivo",
+    "definicao": "que não produz efeito, ineficaz",
+    "exemplo": "A medida se mostrou inefetiva contra o problema.",
+    "frances": "inefficace",
+    "ingles": "ineffective"
+  },
+  {
+    "id": 429,
+    "palavra": "inegável",
+    "classe": "adjetivo",
+    "definicao": "que não se pode negar, evidente",
+    "exemplo": "Havia um talento inegável naquele jovem músico.",
+    "frances": "indéniable",
+    "ingles": "undeniable"
+  },
+  {
+    "id": 430,
+    "palavra": "inelutável",
+    "classe": "adjetivo",
+    "definicao": "inevitável, que não se pode evitar",
+    "exemplo": "A crise era um resultado inelutável das más decisões.",
+    "frances": "inéluctable",
+    "ingles": "ineluctable"
+  },
+  {
+    "id": 431,
+    "palavra": "inenarrável",
+    "classe": "adjetivo",
+    "definicao": "que não se pode narrar, indescritível",
+    "exemplo": "Viveu momentos de sofrimento inenarrável durante a guerra.",
+    "frances": "inénarrable",
+    "ingles": "indescribable"
+  },
+  {
+    "id": 432,
+    "palavra": "inépcia",
+    "classe": "substantivo",
+    "definicao": "incompetência, falta de habilidade",
+    "exemplo": "A inépcia da gestão levou a empresa à falência.",
+    "frances": "ineptie",
+    "ingles": "ineptitude"
+  },
+  {
+    "id": 433,
+    "palavra": "inescrutável",
+    "classe": "adjetivo",
+    "definicao": "que não se pode compreender ou decifrar",
+    "exemplo": "Os desígnios do destino pareciam inescrutáveis.",
+    "frances": "inscrutable",
+    "ingles": "inscrutable"
+  },
+  {
+    "id": 434,
+    "palavra": "inextinguível",
+    "classe": "adjetivo",
+    "definicao": "que não se pode apagar ou extinguir",
+    "exemplo": "Sentia uma sede inextinguível de conhecimento.",
+    "frances": "inextinguible",
+    "ingles": "inextinguishable"
+  },
+  {
+    "id": 435,
+    "palavra": "infatigável",
+    "classe": "adjetivo",
+    "definicao": "incansável, que não se cansa",
+    "exemplo": "Era um trabalhador infatigável, sempre disposto a ajudar.",
+    "frances": "infatigable",
+    "ingles": "tireless"
+  },
+  {
+    "id": 436,
+    "palavra": "infausto",
+    "classe": "adjetivo",
+    "definicao": "de mau agouro, desafortunado",
+    "exemplo": "Foi um dia infausto para toda a equipe.",
+    "frances": "funeste",
+    "ingles": "ill-fated"
+  },
+  {
+    "id": 437,
+    "palavra": "infrutífero",
+    "classe": "adjetivo",
+    "definicao": "que não dá fruto, sem resultado",
+    "exemplo": "As tentativas de acordo foram infrutíferas.",
+    "frances": "infructueux",
+    "ingles": "fruitless"
+  },
+  {
+    "id": 438,
+    "palavra": "ingênito",
+    "classe": "adjetivo",
+    "definicao": "inato, que nasce com a pessoa",
+    "exemplo": "Tinha um talento ingênito para a música.",
+    "frances": "inné",
+    "ingles": "innate"
+  },
+  {
+    "id": 439,
+    "palavra": "inobservância",
+    "classe": "substantivo",
+    "definicao": "não cumprimento de uma regra",
+    "exemplo": "A multa foi aplicada por inobservância das normas.",
+    "frances": "inobservation",
+    "ingles": "non-compliance"
+  },
+  {
+    "id": 440,
+    "palavra": "inopinado",
+    "classe": "adjetivo",
+    "definicao": "inesperado, imprevisto",
+    "exemplo": "A visita inopinada surpreendeu toda a família.",
+    "frances": "inopiné",
+    "ingles": "unexpected"
+  },
+  {
+    "id": 441,
+    "palavra": "insidioso",
+    "classe": "adjetivo",
+    "definicao": "traiçoeiro, que age de forma dissimulada",
+    "exemplo": "A doença avançava de forma insidiosa e silenciosa.",
+    "frances": "insidieux",
+    "ingles": "insidious"
+  },
+  {
+    "id": 442,
+    "palavra": "insipidez",
+    "classe": "substantivo",
+    "definicao": "falta de sabor ou de graça",
+    "exemplo": "A insipidez do prato decepcionou os convidados.",
+    "frances": "fadeur",
+    "ingles": "blandness"
+  },
+  {
+    "id": 443,
+    "palavra": "insofismável",
+    "classe": "adjetivo",
+    "definicao": "que não admite contestação, evidente",
+    "exemplo": "Os dados apresentavam uma prova insofismável.",
+    "frances": "incontestable",
+    "ingles": "irrefutable"
+  },
+  {
+    "id": 444,
+    "palavra": "instar",
+    "classe": "verbo",
+    "definicao": "insistir, pedir com urgência",
+    "exemplo": "O médico instou o paciente a repousar.",
+    "frances": "exhorter",
+    "ingles": "to urge"
+  },
+  {
+    "id": 445,
+    "palavra": "insuflar",
+    "classe": "verbo",
+    "definicao": "incutir, inspirar (coragem, ódio, ideia)",
+    "exemplo": "O líder insuflou ânimo nos soldados exaustos.",
+    "frances": "insuffler",
+    "ingles": "to instill"
+  },
+  {
+    "id": 446,
+    "palavra": "insulso",
+    "classe": "adjetivo",
+    "definicao": "sem graça, sem sabor, insosso",
+    "exemplo": "Fez um comentário insulso que ninguém achou interessante.",
+    "frances": "insipide",
+    "ingles": "insipid"
+  },
+  {
+    "id": 447,
+    "palavra": "intempérie",
+    "classe": "substantivo",
+    "definicao": "mau tempo, condições climáticas adversas",
+    "exemplo": "Os trabalhadores enfrentavam a intempérie todos os dias.",
+    "frances": "intempérie",
+    "ingles": "harsh weather"
+  },
+  {
+    "id": 448,
+    "palavra": "interpelar",
+    "classe": "verbo",
+    "definicao": "questionar formalmente, exigir explicação",
+    "exemplo": "O deputado interpelou o ministro sobre os gastos públicos.",
+    "frances": "interpeller",
+    "ingles": "to question"
+  },
+  {
+    "id": 449,
+    "palavra": "intrincado",
+    "classe": "adjetivo",
+    "definicao": "complicado, difícil de entender",
+    "exemplo": "O enredo do livro era intrincado demais para alguns leitores.",
+    "frances": "complexe",
+    "ingles": "intricate"
+  },
+  {
+    "id": 450,
+    "palavra": "intróito",
+    "classe": "substantivo",
+    "definicao": "introdução, início de um discurso ou cerimônia",
+    "exemplo": "Fez um breve intróito antes de começar a palestra.",
+    "frances": "introït",
+    "ingles": "introduction"
+  },
+  {
+    "id": 451,
+    "palavra": "inusitado",
+    "classe": "adjetivo",
+    "definicao": "incomum, fora do costume",
+    "exemplo": "Teve uma reação inusitada diante da má notícia.",
+    "frances": "inusité",
+    "ingles": "unusual"
+  },
+  {
+    "id": 452,
+    "palavra": "invectiva",
+    "classe": "substantivo",
+    "definicao": "crítica violenta, ataque verbal",
+    "exemplo": "O político lançou invectivas contra seus adversários.",
+    "frances": "invective",
+    "ingles": "invective"
+  },
+  {
+    "id": 453,
+    "palavra": "irretorquível",
+    "classe": "adjetivo",
+    "definicao": "que não admite réplica, incontestável",
+    "exemplo": "Apresentou um argumento irretorquível na discussão.",
+    "frances": "irréfutable",
+    "ingles": "unanswerable"
+  },
+  {
+    "id": 454,
+    "palavra": "irrisório",
+    "classe": "adjetivo",
+    "definicao": "insignificante, ridiculamente pequeno",
+    "exemplo": "Recebeu um salário irrisório pelo trabalho prestado.",
+    "frances": "dérisoire",
+    "ingles": "paltry"
+  },
+  {
+    "id": 455,
+    "palavra": "jactância",
+    "classe": "substantivo",
+    "definicao": "vaidade, alarde das próprias qualidades",
+    "exemplo": "Falava de suas conquistas com jactância exagerada.",
+    "frances": "fanfaronnade",
+    "ingles": "boastfulness"
+  },
+  {
+    "id": 456,
+    "palavra": "jocoso",
+    "classe": "adjetivo",
+    "definicao": "engraçado, humorístico",
+    "exemplo": "Fez um comentário jocoso para aliviar a tensão.",
+    "frances": "facétieux",
+    "ingles": "jocular"
+  },
+  {
+    "id": 457,
+    "palavra": "jubilar",
+    "classe": "verbo",
+    "definicao": "alegrar profundamente; verbo raro para aposentar com honras",
+    "exemplo": "A vitória fez jubilar toda a torcida.",
+    "frances": "réjouir",
+    "ingles": "to rejoice"
+  },
+  {
+    "id": 458,
+    "palavra": "labuta",
+    "classe": "substantivo",
+    "definicao": "trabalho árduo, esforço contínuo",
+    "exemplo": "Depois de anos de labuta, finalmente colheu os frutos.",
+    "frances": "labeur",
+    "ingles": "toil"
+  },
+  {
+    "id": 459,
+    "palavra": "lancinante",
+    "classe": "adjetivo",
+    "definicao": "que causa dor aguda e penetrante",
+    "exemplo": "Sentiu uma dor lancinante no peito.",
+    "frances": "lancinant",
+    "ingles": "piercing"
+  },
+  {
+    "id": 460,
+    "palavra": "lânguido",
+    "classe": "adjetivo",
+    "definicao": "fraco, sem energia, desanimado",
+    "exemplo": "Olhou-a com um sorriso lânguido antes de partir.",
+    "frances": "langoureux",
+    "ingles": "languid"
+  },
+  {
+    "id": 461,
+    "palavra": "lapidar",
+    "classe": "adjetivo/verbo",
+    "definicao": "perfeito, bem elaborado; ou o ato de polir pedra preciosa",
+    "exemplo": "Fez uma observação lapidar sobre o tema.",
+    "frances": "lapidaire",
+    "ingles": "polished"
+  },
+  {
+    "id": 462,
+    "palavra": "lassidão",
+    "classe": "substantivo",
+    "definicao": "cansaço extremo, fadiga",
+    "exemplo": "Sentia uma lassidão profunda depois da longa jornada.",
+    "frances": "lassitude",
+    "ingles": "weariness"
+  },
+  {
+    "id": 463,
+    "palavra": "legado",
+    "classe": "substantivo",
+    "definicao": "herança, contribuição deixada para o futuro",
+    "exemplo": "O legado do cientista influenciou gerações seguintes.",
+    "frances": "héritage",
+    "ingles": "legacy"
+  },
+  {
+    "id": 464,
+    "palavra": "leniente",
+    "classe": "adjetivo",
+    "definicao": "brando, tolerante, que suaviza",
+    "exemplo": "O juiz foi leniente na aplicação da pena.",
+    "frances": "clément",
+    "ingles": "lenient"
+  },
+  {
+    "id": 465,
+    "palavra": "lidar",
+    "classe": "verbo",
+    "definicao": "enfrentar, tratar com algo ou alguém",
+    "exemplo": "Aprendeu a lidar com as críticas de forma madura.",
+    "frances": "gérer",
+    "ingles": "to deal with"
+  },
+  {
+    "id": 466,
+    "palavra": "linear",
+    "classe": "adjetivo",
+    "definicao": "direto, sem desvios; simples de entender",
+    "exemplo": "A narrativa seguia uma estrutura linear e clara.",
+    "frances": "linéaire",
+    "ingles": "linear"
+  },
+  {
+    "id": 467,
+    "palavra": "lograr",
+    "classe": "verbo",
+    "definicao": "conseguir, alcançar (algo desejado)",
+    "exemplo": "Lograram concluir o projeto antes do prazo.",
+    "frances": "réussir",
+    "ingles": "to achieve"
+  },
+  {
+    "id": 468,
+    "palavra": "longevidade",
+    "classe": "substantivo",
+    "definicao": "duração de vida; qualidade de durar muito",
+    "exemplo": "A longevidade da empresa se deve à boa gestão.",
+    "frances": "longévité",
+    "ingles": "longevity"
+  },
+  {
+    "id": 469,
+    "palavra": "lucubração",
+    "classe": "substantivo",
+    "definicao": "(variante) reflexão trabalhosa e prolongada",
+    "exemplo": "Suas lucubrações noturnas resultaram num bom artigo.",
+    "frances": "élucubration",
+    "ingles": "lucubration"
+  },
+  {
+    "id": 470,
+    "palavra": "lumiar",
+    "classe": "substantivo",
+    "definicao": "viga superior de porta ou janela; figurado: limiar",
+    "exemplo": "Estava no lumiar de uma nova fase da vida.",
+    "frances": "seuil",
+    "ingles": "threshold"
+  },
+  {
+    "id": 471,
+    "palavra": "malabarismo",
+    "classe": "substantivo",
+    "definicao": "habilidade para lidar com múltiplas tarefas; artes circenses",
+    "exemplo": "Fazia um malabarismo para conciliar trabalho e estudos.",
+    "frances": "jonglage",
+    "ingles": "juggling"
+  },
+  {
+    "id": 472,
+    "palavra": "malfazejo",
+    "classe": "adjetivo",
+    "definicao": "que causa mal, prejudicial",
+    "exemplo": "A influência malfazeja daquele grupo preocupava os pais.",
+    "frances": "malfaisant",
+    "ingles": "harmful"
+  },
+  {
+    "id": 473,
+    "palavra": "maquinação",
+    "classe": "substantivo",
+    "definicao": "plano secreto e prejudicial, conspiração",
+    "exemplo": "Descobriram a maquinação por trás da fraude.",
+    "frances": "machination",
+    "ingles": "machination"
+  },
+  {
+    "id": 474,
+    "palavra": "marasmo",
+    "classe": "substantivo",
+    "definicao": "estagnação, apatia geral",
+    "exemplo": "A economia entrou em marasmo após a crise.",
+    "frances": "marasme",
+    "ingles": "stagnation"
+  },
+  {
+    "id": 475,
+    "palavra": "mavioso",
+    "classe": "adjetivo",
+    "definicao": "suave, terno, doce (especialmente na fala)",
+    "exemplo": "Falou-lhe em tom mavioso para acalmá-la.",
+    "frances": "doux",
+    "ingles": "gentle"
+  },
+  {
+    "id": 476,
+    "palavra": "mendicância",
+    "classe": "substantivo",
+    "definicao": "ato de mendigar, pedir esmola",
+    "exemplo": "A mendicância aumentou nos grandes centros urbanos.",
+    "frances": "mendicité",
+    "ingles": "begging"
+  },
+  {
+    "id": 477,
+    "palavra": "meritório",
+    "classe": "adjetivo",
+    "definicao": "digno de mérito, louvável",
+    "exemplo": "Foi um esforço meritório, mesmo sem sucesso total.",
+    "frances": "méritoire",
+    "ingles": "meritorious"
+  },
+  {
+    "id": 478,
+    "palavra": "mesura",
+    "classe": "substantivo",
+    "definicao": "reverência, cumprimento respeitoso",
+    "exemplo": "Fez uma mesura antes de se retirar do salão.",
+    "frances": "révérence",
+    "ingles": "bow"
+  },
+  {
+    "id": 479,
+    "palavra": "mitigar",
+    "classe": "verbo",
+    "definicao": "suavizar, atenuar, diminuir",
+    "exemplo": "O remédio ajudou a mitigar a dor.",
+    "frances": "atténuer",
+    "ingles": "to mitigate"
+  },
+  {
+    "id": 480,
+    "palavra": "morfético",
+    "classe": "adjetivo",
+    "definicao": "relativo a doença de pele; figurado: repulsivo",
+    "exemplo": "O ambiente parecia morfético de tão degradado.",
+    "frances": "répugnant",
+    "ingles": "repulsive"
+  },
+  {
+    "id": 481,
+    "palavra": "mormaço",
+    "classe": "substantivo",
+    "definicao": "calor abafado, sufocante",
+    "exemplo": "O mormaço da tarde deixava todos sonolentos.",
+    "frances": "chaleur étouffante",
+    "ingles": "sultry heat"
+  },
+  {
+    "id": 482,
+    "palavra": "mote",
+    "classe": "substantivo",
+    "definicao": "tema principal, ideia central de uma obra",
+    "exemplo": "O amor era o mote de toda a sua poesia.",
+    "frances": "thème",
+    "ingles": "motto"
+  },
+  {
+    "id": 483,
+    "palavra": "mundano",
+    "classe": "adjetivo",
+    "definicao": "relativo ao mundo material; superficial",
+    "exemplo": "Preferia evitar as futilidades da vida mundana.",
+    "frances": "mondain",
+    "ingles": "worldly"
+  },
+  {
+    "id": 484,
+    "palavra": "nostalgia",
+    "classe": "substantivo",
+    "definicao": "saudade de tempos ou lugares passados",
+    "exemplo": "Sentia nostalgia da infância no interior.",
+    "frances": "nostalgie",
+    "ingles": "nostalgia"
+  },
+  {
+    "id": 485,
+    "palavra": "nulidade",
+    "classe": "substantivo",
+    "definicao": "invalidade; pessoa sem valor ou talento",
+    "exemplo": "O contrato foi declarado nulidade pelo tribunal.",
+    "frances": "nullité",
+    "ingles": "nullity"
+  },
+  {
+    "id": 486,
+    "palavra": "obcecado",
+    "classe": "adjetivo",
+    "definicao": "dominado por uma ideia fixa",
+    "exemplo": "Ficou obcecado por terminar o projeto a qualquer custo.",
+    "frances": "obsédé",
+    "ingles": "obsessed"
+  },
+  {
+    "id": 487,
+    "palavra": "obliquidade",
+    "classe": "substantivo",
+    "definicao": "qualidade do que é oblíquo; desonestidade indireta",
+    "exemplo": "Havia certa obliquidade na forma como ele negociava.",
+    "frances": "obliquité",
+    "ingles": "obliqueness"
+  },
+  {
+    "id": 488,
+    "palavra": "obsequiar",
+    "classe": "verbo",
+    "definicao": "presentear, cumular de atenções",
+    "exemplo": "Obsequiou os convidados com um jantar especial.",
+    "frances": "gratifier",
+    "ingles": "to regale"
+  },
+  {
+    "id": 489,
+    "palavra": "obtemperar",
+    "classe": "verbo",
+    "definicao": "obedecer, ceder após ponderação",
+    "exemplo": "Por fim, obtemperou às exigências do sindicato.",
+    "frances": "obtempérer",
+    "ingles": "to comply"
+  },
+  {
+    "id": 490,
+    "palavra": "oneroso",
+    "classe": "adjetivo",
+    "definicao": "caro, que representa grande custo ou encargo",
+    "exemplo": "O processo judicial se tornou oneroso demais para a família.",
+    "frances": "onéreux",
+    "ingles": "costly"
+  },
+  {
+    "id": 491,
+    "palavra": "opugnar",
+    "classe": "verbo",
+    "definicao": "combater, contestar com firmeza",
+    "exemplo": "Opugnou as acusações com provas concretas.",
+    "frances": "combattre",
+    "ingles": "to oppose"
+  },
+  {
+    "id": 492,
+    "palavra": "orbe",
+    "classe": "substantivo",
+    "definicao": "o mundo, o globo terrestre",
+    "exemplo": "Notícias daquele tipo corriam por todo o orbe.",
+    "frances": "globe",
+    "ingles": "orb"
+  },
+  {
+    "id": 493,
+    "palavra": "ordália",
+    "classe": "substantivo",
+    "definicao": "prova ou julgamento difícil (originalmente ritual medieval)",
+    "exemplo": "Enfrentar aquela burocracia foi uma verdadeira ordália.",
+    "frances": "épreuve",
+    "ingles": "ordeal"
+  },
+  {
+    "id": 494,
+    "palavra": "ossatura",
+    "classe": "substantivo",
+    "definicao": "estrutura óssea; estrutura básica de algo",
+    "exemplo": "A ossatura do prédio resistiu ao terremoto.",
+    "frances": "ossature",
+    "ingles": "framework"
+  },
+  {
+    "id": 495,
+    "palavra": "ostentoso",
+    "classe": "adjetivo",
+    "definicao": "que exibe luxo, chamativo",
+    "exemplo": "A festa foi ostentosa, com direito a fogos de artifício.",
+    "frances": "fastueux",
+    "ingles": "showy"
+  },
+  {
+    "id": 496,
+    "palavra": "palavrório",
+    "classe": "substantivo",
+    "definicao": "conversa longa e vazia, verborragia",
+    "exemplo": "O discurso foi um palavrório sem propósito claro.",
+    "frances": "verbiage",
+    "ingles": "verbiage"
+  },
+  {
+    "id": 497,
+    "palavra": "palrar",
+    "classe": "verbo",
+    "definicao": "conversar animadamente, tagarelar",
+    "exemplo": "As vizinhas gostavam de palrar na calçada à tarde.",
+    "frances": "papoter",
+    "ingles": "to chatter"
+  },
+  {
+    "id": 498,
+    "palavra": "parvoíce",
+    "classe": "substantivo",
+    "definicao": "tolice, bobagem",
+    "exemplo": "Disse uma parvoíce que fez todos rirem.",
+    "frances": "bêtise",
+    "ingles": "silliness"
+  },
+  {
+    "id": 499,
+    "palavra": "pasmaceira",
+    "classe": "substantivo",
+    "definicao": "estado de inércia, apatia geral",
+    "exemplo": "A cidade vivia numa pasmaceira nas tardes de verão.",
+    "frances": "torpeur",
+    "ingles": "torpor"
+  },
+  {
+    "id": 500,
+    "palavra": "patranha",
+    "classe": "substantivo",
+    "definicao": "mentira, invenção sem fundamento",
+    "exemplo": "A história toda não passava de uma patranha.",
+    "frances": "mensonge",
+    "ingles": "fib"
+  },
+  {
+    "id": 501,
+    "palavra": "peculiar",
+    "classe": "adjetivo",
+    "definicao": "característico, particular, distinto",
+    "exemplo": "Tinha um jeito peculiar de contar histórias.",
+    "frances": "particulier",
+    "ingles": "peculiar"
+  },
+  {
+    "id": 502,
+    "palavra": "pejo",
+    "classe": "substantivo",
+    "definicao": "vergonha, constrangimento",
+    "exemplo": "Confessou o erro sem pejo algum.",
+    "frances": "honte",
+    "ingles": "shame"
+  },
+  {
+    "id": 503,
+    "palavra": "perambular",
+    "classe": "verbo",
+    "definicao": "andar sem destino certo, vagar",
+    "exemplo": "Perambulou pela cidade a tarde inteira, pensativo.",
+    "frances": "déambuler",
+    "ingles": "to wander"
+  },
+  {
+    "id": 504,
+    "palavra": "periclitante",
+    "classe": "adjetivo",
+    "definicao": "em perigo, instável, prestes a cair",
+    "exemplo": "A empresa vivia uma situação financeira periclitante.",
+    "frances": "précaire",
+    "ingles": "precarious"
+  },
+  {
+    "id": 505,
+    "palavra": "perlado",
+    "classe": "adjetivo",
+    "definicao": "coberto de gotas como pérolas; brilhante",
+    "exemplo": "Seu rosto estava perlado de suor após a corrida.",
+    "frances": "perlé",
+    "ingles": "beaded"
+  },
+  {
+    "id": 506,
+    "palavra": "perpassar",
+    "classe": "verbo",
+    "definicao": "atravessar rapidamente; passar de leve por",
+    "exemplo": "Uma sombra de tristeza perpassou seu rosto.",
+    "frances": "traverser",
+    "ingles": "to flit across"
+  },
+  {
+    "id": 507,
+    "palavra": "pletórico",
+    "classe": "adjetivo",
+    "definicao": "cheio, abundante em excesso",
+    "exemplo": "O evento estava pletórico de novidades interessantes.",
+    "frances": "plein",
+    "ingles": "overflowing"
+  },
+  {
+    "id": 508,
+    "palavra": "plangente",
+    "classe": "adjetivo",
+    "definicao": "que exprime tristeza, lamentoso",
+    "exemplo": "A melodia plangente comoveu toda a plateia.",
+    "frances": "plaintif",
+    "ingles": "plaintive"
+  },
+  {
+    "id": 509,
+    "palavra": "poliglota",
+    "classe": "substantivo",
+    "definicao": "pessoa que fala muitas línguas",
+    "exemplo": "O guia era poliglota e atendia turistas de vários países.",
+    "frances": "polyglotte",
+    "ingles": "polyglot"
+  },
+  {
+    "id": 510,
+    "palavra": "pomposo",
+    "classe": "adjetivo",
+    "definicao": "cheio de pompa, exagerado, ostentoso",
+    "exemplo": "Fez um discurso pomposo demais para a ocasião simples.",
+    "frances": "pompeux",
+    "ingles": "pompous"
+  },
+  {
+    "id": 511,
+    "palavra": "ponderação",
+    "classe": "substantivo",
+    "definicao": "reflexão cuidadosa antes de decidir",
+    "exemplo": "Tomou a decisão com muita ponderação.",
+    "frances": "réflexion",
+    "ingles": "deliberation"
+  },
+  {
+    "id": 512,
+    "palavra": "ambíguo",
+    "classe": "adjetivo",
+    "definicao": "que admite mais de uma interpretação",
+    "exemplo": "A resposta foi ambígua e gerou confusão.",
+    "frances": "ambigu",
+    "ingles": "ambiguous"
+  },
+  {
+    "id": 513,
+    "palavra": "audacioso",
+    "classe": "adjetivo",
+    "definicao": "corajoso, ousado ao ponto de arriscar",
+    "exemplo": "Teve um plano audacioso para expandir o negócio.",
+    "frances": "audacieux",
+    "ingles": "audacious"
+  },
+  {
+    "id": 514,
+    "palavra": "cauteloso",
+    "classe": "adjetivo",
+    "definicao": "prudente, que age com cuidado",
+    "exemplo": "Foi cauteloso ao assinar o contrato.",
+    "frances": "prudent",
+    "ingles": "cautious"
+  },
+  {
+    "id": 515,
+    "palavra": "coerente",
+    "classe": "adjetivo",
+    "definicao": "lógico, que faz sentido, consistente",
+    "exemplo": "O argumento era coerente do início ao fim.",
+    "frances": "cohérent",
+    "ingles": "coherent"
+  },
+  {
+    "id": 516,
+    "palavra": "consistente",
+    "classe": "adjetivo",
+    "definicao": "sólido, que se mantém firme e sem contradições",
+    "exemplo": "Apresentou dados consistentes na pesquisa.",
+    "frances": "cohérent",
+    "ingles": "consistent"
+  },
+  {
+    "id": 517,
+    "palavra": "credível",
+    "classe": "adjetivo",
+    "definicao": "que merece crédito, digno de confiança",
+    "exemplo": "A testemunha foi considerada credível pelo júri.",
+    "frances": "crédible",
+    "ingles": "credible"
+  },
+  {
+    "id": 518,
+    "palavra": "decisivo",
+    "classe": "adjetivo",
+    "definicao": "que determina o resultado, definitivo",
+    "exemplo": "O gol decisivo veio nos minutos finais.",
+    "frances": "décisif",
+    "ingles": "decisive"
+  },
+  {
+    "id": 519,
+    "palavra": "eficaz",
+    "classe": "adjetivo",
+    "definicao": "que produz o efeito esperado",
+    "exemplo": "O tratamento se mostrou eficaz contra a doença.",
+    "frances": "efficace",
+    "ingles": "effective"
+  },
+  {
+    "id": 520,
+    "palavra": "eminente",
+    "classe": "adjetivo",
+    "definicao": "destacado, de grande importância",
+    "exemplo": "Foi recebido por um eminente professor universitário.",
+    "frances": "éminent",
+    "ingles": "eminent"
+  },
+  {
+    "id": 521,
+    "palavra": "equivalente",
+    "classe": "adjetivo",
+    "definicao": "de valor ou efeito igual a outro",
+    "exemplo": "Optou por um produto equivalente e mais barato.",
+    "frances": "équivalent",
+    "ingles": "equivalent"
+  },
+  {
+    "id": 522,
+    "palavra": "explícito",
+    "classe": "adjetivo",
+    "definicao": "claro, dito sem rodeios",
+    "exemplo": "Deu uma resposta explícita, sem deixar dúvidas.",
+    "frances": "explicite",
+    "ingles": "explicit"
+  },
+  {
+    "id": 523,
+    "palavra": "implícito",
+    "classe": "adjetivo",
+    "definicao": "subentendido, não dito diretamente",
+    "exemplo": "Havia uma crítica implícita no comentário.",
+    "frances": "implicite",
+    "ingles": "implicit"
+  },
+  {
+    "id": 524,
+    "palavra": "inevitável",
+    "classe": "adjetivo",
+    "definicao": "que não se pode evitar, certo de acontecer",
+    "exemplo": "A mudança de rumo era inevitável.",
+    "frances": "inévitable",
+    "ingles": "inevitable"
+  },
+  {
+    "id": 525,
+    "palavra": "íntegro",
+    "classe": "adjetivo",
+    "definicao": "honesto, de caráter reto",
+    "exemplo": "Era conhecido como um funcionário íntegro.",
+    "frances": "intègre",
+    "ingles": "upright"
+  },
+  {
+    "id": 526,
+    "palavra": "intrínseco",
+    "classe": "adjetivo",
+    "definicao": "que é próprio de algo, essencial",
+    "exemplo": "O valor intrínseco da obra ia além do preço.",
+    "frances": "intrinsèque",
+    "ingles": "intrinsic"
+  },
+  {
+    "id": 527,
+    "palavra": "iminente",
+    "classe": "adjetivo",
+    "definicao": "prestes a acontecer",
+    "exemplo": "Havia um perigo iminente na estrada.",
+    "frances": "imminent",
+    "ingles": "imminent"
+  },
+  {
+    "id": 528,
+    "palavra": "lúcido",
+    "classe": "adjetivo",
+    "definicao": "que raciocina com clareza",
+    "exemplo": "Mesmo doente, permaneceu lúcido até o fim.",
+    "frances": "lucide",
+    "ingles": "lucid"
+  },
+  {
+    "id": 529,
+    "palavra": "pertinente",
+    "classe": "adjetivo",
+    "definicao": "relevante, relacionado ao assunto",
+    "exemplo": "Fez uma pergunta pertinente durante a reunião.",
+    "frances": "pertinent",
+    "ingles": "pertinent"
+  },
+  {
+    "id": 530,
+    "palavra": "plausível",
+    "classe": "adjetivo",
+    "definicao": "aceitável, que parece verdadeiro",
+    "exemplo": "A explicação era plausível, embora não comprovada.",
+    "frances": "plausible",
+    "ingles": "plausible"
+  },
+  {
+    "id": 531,
+    "palavra": "presunçoso",
+    "classe": "adjetivo",
+    "definicao": "que se acha superior, vaidoso",
+    "exemplo": "O colega presunçoso não aceitava conselhos.",
+    "frances": "prétentieux",
+    "ingles": "presumptuous"
+  },
+  {
+    "id": 532,
+    "palavra": "prevalente",
+    "classe": "adjetivo",
+    "definicao": "predominante, mais comum",
+    "exemplo": "A opinião prevalente era a favor da reforma.",
+    "frances": "prédominant",
+    "ingles": "prevalent"
+  },
+  {
+    "id": 533,
+    "palavra": "proeminente",
+    "classe": "adjetivo",
+    "definicao": "destacado, que se sobressai",
+    "exemplo": "Ocupava uma posição proeminente na empresa.",
+    "frances": "proéminent",
+    "ingles": "prominent"
+  },
+  {
+    "id": 534,
+    "palavra": "prudente",
+    "classe": "adjetivo",
+    "definicao": "cauteloso, que evita riscos desnecessários",
+    "exemplo": "Foi prudente ao investir apenas parte da poupança.",
+    "frances": "prudent",
+    "ingles": "prudent"
+  },
+  {
+    "id": 535,
+    "palavra": "relevante",
+    "classe": "adjetivo",
+    "definicao": "importante, que tem peso na questão",
+    "exemplo": "Trouxe um dado relevante para a discussão.",
+    "frances": "pertinent",
+    "ingles": "relevant"
+  },
+  {
+    "id": 536,
+    "palavra": "resiliente",
+    "classe": "adjetivo",
+    "definicao": "capaz de se recuperar de dificuldades",
+    "exemplo": "A empresa se mostrou resiliente após a crise.",
+    "frances": "résilient",
+    "ingles": "resilient"
+  },
+  {
+    "id": 537,
+    "palavra": "sensato",
+    "classe": "adjetivo",
+    "definicao": "que age com bom senso",
+    "exemplo": "Foi uma decisão sensata diante das circunstâncias.",
+    "frances": "sensé",
+    "ingles": "sensible"
+  },
+  {
+    "id": 538,
+    "palavra": "versátil",
+    "classe": "adjetivo",
+    "definicao": "capaz de se adaptar a diferentes funções",
+    "exemplo": "O ator era versátil, transitando entre gêneros diversos.",
+    "frances": "polyvalent",
+    "ingles": "versatile"
+  },
+  {
+    "id": 539,
+    "palavra": "viável",
+    "classe": "adjetivo",
+    "definicao": "possível de realizar, exequível",
+    "exemplo": "O projeto era viável dentro do orçamento disponível.",
+    "frances": "viable",
+    "ingles": "viable"
+  },
+  {
+    "id": 540,
+    "palavra": "adequado",
+    "classe": "adjetivo",
+    "definicao": "apropriado, que se encaixa bem",
+    "exemplo": "Escolheu um tom adequado para a ocasião.",
+    "frances": "adéquat",
+    "ingles": "adequate"
+  },
+  {
+    "id": 541,
+    "palavra": "controverso",
+    "classe": "adjetivo",
+    "definicao": "que gera debate ou discordância",
+    "exemplo": "O tema era controverso entre os especialistas.",
+    "frances": "controversé",
+    "ingles": "controversial"
+  },
+  {
+    "id": 542,
+    "palavra": "decadente",
+    "classe": "adjetivo",
+    "definicao": "em declínio, que perdeu o vigor anterior",
+    "exemplo": "A antiga fábrica tinha um ar decadente.",
+    "frances": "décadent",
+    "ingles": "decadent"
+  },
+  {
+    "id": 543,
+    "palavra": "discreto",
+    "classe": "adjetivo",
+    "definicao": "reservado, que evita chamar atenção",
+    "exemplo": "Preferia um estilo discreto de se vestir.",
+    "frances": "discret",
+    "ingles": "discreet"
+  },
+  {
+    "id": 544,
+    "palavra": "elaborado",
+    "classe": "adjetivo",
+    "definicao": "bem desenvolvido, cuidadosamente preparado",
+    "exemplo": "Apresentou um plano elaborado para o projeto.",
+    "frances": "élaboré",
+    "ingles": "elaborate"
+  },
+  {
+    "id": 545,
+    "palavra": "exemplar",
+    "classe": "adjetivo",
+    "definicao": "que serve de modelo, admirável",
+    "exemplo": "Teve uma conduta exemplar durante a crise.",
+    "frances": "exemplaire",
+    "ingles": "exemplary"
+  },
+  {
+    "id": 546,
+    "palavra": "genuíno",
+    "classe": "adjetivo",
+    "definicao": "autêntico, verdadeiro",
+    "exemplo": "Demonstrou um interesse genuíno pelo assunto.",
+    "frances": "authentique",
+    "ingles": "genuine"
+  },
+  {
+    "id": 547,
+    "palavra": "hesitante",
+    "classe": "adjetivo",
+    "definicao": "que hesita, inseguro na decisão",
+    "exemplo": "Deu uma resposta hesitante à pergunta direta.",
+    "frances": "hésitant",
+    "ingles": "hesitant"
+  },
+  {
+    "id": 548,
+    "palavra": "inovador",
+    "classe": "adjetivo",
+    "definicao": "que traz novidade, criativo",
+    "exemplo": "Lançou um produto inovador no mercado.",
+    "frances": "innovant",
+    "ingles": "innovative"
+  },
+  {
+    "id": 549,
+    "palavra": "meticuloso",
+    "classe": "adjetivo",
+    "definicao": "muito cuidadoso com os detalhes",
+    "exemplo": "Era meticuloso na revisão de cada relatório.",
+    "frances": "méticuleux",
+    "ingles": "meticulous"
+  },
+  {
+    "id": 550,
+    "palavra": "notório",
+    "classe": "adjetivo",
+    "definicao": "conhecido publicamente, evidente",
+    "exemplo": "Era notório o talento do jovem músico.",
+    "frances": "notoire",
+    "ingles": "notorious"
+  },
+  {
+    "id": 551,
+    "palavra": "oportuno",
+    "classe": "adjetivo",
+    "definicao": "que ocorre no momento certo",
+    "exemplo": "Fez um comentário oportuno durante o debate.",
+    "frances": "opportun",
+    "ingles": "opportune"
+  },
+  {
+    "id": 552,
+    "palavra": "pragmático",
+    "classe": "adjetivo",
+    "definicao": "prático, voltado para resultados",
+    "exemplo": "Adotou uma abordagem pragmática para resolver o problema.",
+    "frances": "pragmatique",
+    "ingles": "pragmatic"
+  },
+  {
+    "id": 553,
+    "palavra": "precoce",
+    "classe": "adjetivo",
+    "definicao": "que se desenvolve antes do esperado",
+    "exemplo": "Mostrou um talento precoce para a matemática.",
+    "frances": "précoce",
+    "ingles": "precocious"
+  },
+  {
+    "id": 554,
+    "palavra": "questionável",
+    "classe": "adjetivo",
+    "definicao": "duvidoso, que pode ser contestado",
+    "exemplo": "A validade do estudo era questionável.",
+    "frances": "discutable",
+    "ingles": "questionable"
+  },
+  {
+    "id": 555,
+    "palavra": "sofisticado",
+    "classe": "adjetivo",
+    "definicao": "refinado, elaborado com sofisticação",
+    "exemplo": "Usava um equipamento sofisticado no laboratório.",
+    "frances": "sophistiqué",
+    "ingles": "sophisticated"
+  },
+  {
+    "id": 556,
+    "palavra": "transparente",
+    "classe": "adjetivo",
+    "definicao": "claro, sem segredos; que deixa ver através",
+    "exemplo": "A empresa adotou uma gestão transparente.",
+    "frances": "transparent",
+    "ingles": "transparent"
+  },
+  {
+    "id": 557,
+    "palavra": "vulnerável",
+    "classe": "adjetivo",
+    "definicao": "suscetível a ser ferido ou atacado",
+    "exemplo": "O sistema estava vulnerável a ataques externos.",
+    "frances": "vulnérable",
+    "ingles": "vulnerable"
+  },
+  {
+    "id": 558,
+    "palavra": "adverso",
+    "classe": "adjetivo",
+    "definicao": "desfavorável, contrário",
+    "exemplo": "Enfrentaram condições adversas durante a viagem.",
+    "frances": "adverse",
+    "ingles": "adverse"
+  },
+  {
+    "id": 559,
+    "palavra": "benéfico",
+    "classe": "adjetivo",
+    "definicao": "que traz benefício, vantajoso",
+    "exemplo": "O acordo foi benéfico para ambas as partes.",
+    "frances": "bénéfique",
+    "ingles": "beneficial"
+  },
+  {
+    "id": 560,
+    "palavra": "categórico",
+    "classe": "adjetivo",
+    "definicao": "definitivo, sem admitir dúvida",
+    "exemplo": "Deu uma resposta categórica ao pedido.",
+    "frances": "catégorique",
+    "ingles": "categorical"
+  },
+  {
+    "id": 561,
+    "palavra": "cético",
+    "classe": "adjetivo",
+    "definicao": "que duvida, descrente",
+    "exemplo": "Permaneceu cético diante das promessas do vendedor.",
+    "frances": "sceptique",
+    "ingles": "skeptical"
+  },
+  {
+    "id": 562,
+    "palavra": "contundente",
+    "classe": "adjetivo",
+    "definicao": "forte, incisivo (argumento ou crítica)",
+    "exemplo": "Fez uma crítica contundente ao projeto.",
+    "frances": "incisif",
+    "ingles": "forceful"
+  },
+  {
+    "id": 563,
+    "palavra": "desafiador",
+    "classe": "adjetivo",
+    "definicao": "que representa um desafio",
+    "exemplo": "Aceitou um cargo desafiador na nova empresa.",
+    "frances": "stimulant",
+    "ingles": "challenging"
+  },
+  {
+    "id": 564,
+    "palavra": "enigmático",
+    "classe": "adjetivo",
+    "definicao": "misterioso, difícil de entender",
+    "exemplo": "O final do filme era enigmático.",
+    "frances": "énigmatique",
+    "ingles": "enigmatic"
+  },
+  {
+    "id": 565,
+    "palavra": "estratégico",
+    "classe": "adjetivo",
+    "definicao": "planejado com vistas a um objetivo maior",
+    "exemplo": "Fez uma escolha estratégica para o futuro da empresa.",
+    "frances": "stratégique",
+    "ingles": "strategic"
+  },
+  {
+    "id": 566,
+    "palavra": "frívolo",
+    "classe": "adjetivo",
+    "definicao": "superficial, sem seriedade",
+    "exemplo": "Considerou a conversa frívola demais para o momento.",
+    "frances": "frivole",
+    "ingles": "frivolous"
+  },
+  {
+    "id": 567,
+    "palavra": "gradual",
+    "classe": "adjetivo",
+    "definicao": "que ocorre aos poucos, por etapas",
+    "exemplo": "A recuperação foi gradual, mas constante.",
+    "frances": "graduel",
+    "ingles": "gradual"
+  },
+  {
+    "id": 568,
+    "palavra": "imparcial",
+    "classe": "adjetivo",
+    "definicao": "que não favorece nenhum dos lados",
+    "exemplo": "O árbitro se manteve imparcial durante o jogo.",
+    "frances": "impartial",
+    "ingles": "impartial"
+  },
+  {
+    "id": 569,
+    "palavra": "incisivo",
+    "classe": "adjetivo",
+    "definicao": "direto e penetrante, que vai ao ponto",
+    "exemplo": "Fez um comentário incisivo sobre o problema.",
+    "frances": "incisif",
+    "ingles": "incisive"
+  },
+  {
+    "id": 570,
+    "palavra": "meritocrático",
+    "classe": "adjetivo",
+    "definicao": "baseado no mérito individual",
+    "exemplo": "Defendia um sistema meritocrático de promoções.",
+    "frances": "méritocratique",
+    "ingles": "meritocratic"
+  },
+  {
+    "id": 571,
+    "palavra": "obstinado",
+    "classe": "adjetivo",
+    "definicao": "persistente, que não desiste facilmente",
+    "exemplo": "Foi obstinado até conseguir realizar o sonho.",
+    "frances": "obstiné",
+    "ingles": "obstinate"
+  },
+  {
+    "id": 572,
+    "palavra": "perspicaz",
+    "classe": "adjetivo",
+    "definicao": "que percebe rapidamente e com clareza",
+    "exemplo": "O investigador perspicaz notou o detalhe que faltava.",
+    "frances": "perspicace",
+    "ingles": "perceptive"
+  },
+  {
+    "id": 573,
+    "palavra": "polêmico",
+    "classe": "adjetivo",
+    "definicao": "que causa controvérsia",
+    "exemplo": "O comentário polêmico dividiu opiniões.",
+    "frances": "polémique",
+    "ingles": "polemical"
+  },
+  {
+    "id": 574,
+    "palavra": "resoluto",
+    "classe": "adjetivo",
+    "definicao": "decidido, firme na resolução",
+    "exemplo": "Manteve-se resoluto apesar das dificuldades.",
+    "frances": "résolu",
+    "ingles": "resolute"
+  },
+  {
+    "id": 575,
+    "palavra": "sistemático",
+    "classe": "adjetivo",
+    "definicao": "organizado, feito de forma metódica",
+    "exemplo": "Adotou uma abordagem sistemática para o estudo.",
+    "frances": "systématique",
+    "ingles": "systematic"
+  }
+]

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <include domain="database" path="palavra_do_dia.db" />
+    <include domain="sharedpref" path="palavra_prefs.xml" />
+</full-backup-content>
