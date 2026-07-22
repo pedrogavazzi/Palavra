@@ -26,23 +26,28 @@ class MonthlyReviewActivity : BaseActivity() {
         lifecycleScope.launch {
             val startCycle = (monthIndex - 1) * 4 + 1
             val endCycle = monthIndex * 4
-            val history = repo.getLearnedHistory().filter { it.first.cycleNumber in startCycle..endCycle }
+            val agenda = repo.getAgenda()
+                .filter { it.cycleNumber != null && it.cycleNumber in startCycle..endCycle && !it.future }
 
-            if (history.isEmpty()) {
+            if (agenda.isEmpty()) {
                 addText("Nenhuma palavra aprendida neste mês ainda.")
                 return@launch
             }
 
-            val grouped = history.groupBy { it.first.cycleNumber }.toSortedMap()
+            val grouped = agenda.groupBy { it.cycleNumber }.toSortedMap(compareBy { it })
             for ((cycleNum, items) in grouped) {
                 addSectionTitle("Semana (ciclo $cycleNum)")
-                for ((progress, word) in items) {
-                    val status = when (progress.testCorrect) {
-                        true -> "✔"
-                        false -> "✘"
-                        null -> "—"
+                for (entry in items) {
+                    val status: String
+                    val text: String
+                    if (entry.learned && entry.word != null) {
+                        status = "✔"
+                        text = "${entry.word.palavra}: ${entry.word.definicao}"
+                    } else {
+                        status = "—"
+                        text = "Palavra não aprendida"
                     }
-                    addWordRow("$status ${word.palavra}: ${word.definicao}")
+                    addWordRow("$status $text")
                 }
             }
         }
